@@ -1,0 +1,25 @@
+[
+  {
+    "id": "c43107f6-a555-4c56-bc0b-42af35cbd3ad",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "Web3 in PenX"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.221Z",
+    "createdAt": "2023-12-04T15:16:36.221Z",
+    "updatedAt": "2023-12-04T15:16:38.085Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "7c689372-752a-45d3-9421-fa92cc869a04"
+  }
+]

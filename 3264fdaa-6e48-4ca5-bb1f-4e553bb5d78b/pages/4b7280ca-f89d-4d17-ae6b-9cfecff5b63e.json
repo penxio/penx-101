@@ -1,0 +1,25 @@
+[
+  {
+    "id": "4b7280ca-f89d-4d17-ae6b-9cfecff5b63e",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "https://www.youtube.com/watch?v=TEttd0Qkqnc"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.088Z",
+    "createdAt": "2023-12-04T15:16:36.088Z",
+    "updatedAt": "2023-12-04T15:16:37.932Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "7c689372-752a-45d3-9421-fa92cc869a04"
+  }
+]

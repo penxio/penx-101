@@ -1,0 +1,25 @@
+[
+  {
+    "id": "9eff57b1-a349-4e29-8b54-8132292f433c",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "What Is Open Source Software?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.084Z",
+    "createdAt": "2023-12-04T15:16:36.084Z",
+    "updatedAt": "2023-12-04T15:16:37.927Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "7c689372-752a-45d3-9421-fa92cc869a04"
+  }
+]

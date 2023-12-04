@@ -1,0 +1,219 @@
+[
+  {
+    "id": "402dec74-0327-47c8-9f8d-a3cd8e80a73b",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h1",
+        "children": [
+          {
+            "text": "Tokenomics"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "bce75b70-5244-4f85-a9f8-02b38f81b309",
+      "1b1ae55d-3d29-42db-b827-b25d31ed1d58",
+      "d0d54137-7311-400e-a397-77e88d872515",
+      "cc923794-6908-4167-8692-d6574c05d717",
+      "1afe0e9a-29ee-40c6-90e8-2832ac33f47b",
+      "68aa9fc2-777c-4ac0-bd89-31b4e8d7eb75",
+      "a47a5135-3625-427f-81c1-a63ebf6bc56c",
+      "adeee7e0-6187-48a3-ada4-299c6f51833b"
+    ],
+    "openedAt": "2023-12-04T15:16:36.225Z",
+    "createdAt": "2023-12-04T15:16:36.225Z",
+    "updatedAt": "2023-12-04T15:16:38.091Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "7c689372-752a-45d3-9421-fa92cc869a04"
+  },
+  {
+    "id": "bce75b70-5244-4f85-a9f8-02b38f81b309",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "PENX Token"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.230Z",
+    "createdAt": "2023-12-04T15:16:36.230Z",
+    "updatedAt": "2023-12-04T15:16:38.095Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  },
+  {
+    "id": "1b1ae55d-3d29-42db-b827-b25d31ed1d58",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "bold": true,
+            "text": "Token Supply"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.235Z",
+    "createdAt": "2023-12-04T15:16:36.235Z",
+    "updatedAt": "2023-12-04T15:16:38.101Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  },
+  {
+    "id": "d0d54137-7311-400e-a397-77e88d872515",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "User Airdrop: 19%"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.239Z",
+    "createdAt": "2023-12-04T15:16:36.239Z",
+    "updatedAt": "2023-12-04T15:16:38.105Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  },
+  {
+    "id": "cc923794-6908-4167-8692-d6574c05d717",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Ecosystem Fund: 25%"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.243Z",
+    "createdAt": "2023-12-04T15:16:36.243Z",
+    "updatedAt": "2023-12-04T15:16:38.111Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  },
+  {
+    "id": "1afe0e9a-29ee-40c6-90e8-2832ac33f47b",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Core Contributors: 19%"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.247Z",
+    "createdAt": "2023-12-04T15:16:36.247Z",
+    "updatedAt": "2023-12-04T15:16:38.115Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  },
+  {
+    "id": "68aa9fc2-777c-4ac0-bd89-31b4e8d7eb75",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Investors: 17%"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.251Z",
+    "createdAt": "2023-12-04T15:16:36.251Z",
+    "updatedAt": "2023-12-04T15:16:38.120Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  },
+  {
+    "id": "a47a5135-3625-427f-81c1-a63ebf6bc56c",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "example:"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.255Z",
+    "createdAt": "2023-12-04T15:16:36.255Z",
+    "updatedAt": "2023-12-04T15:16:38.125Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  },
+  {
+    "id": "adeee7e0-6187-48a3-ada4-299c6f51833b",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "https://docs.myshell.ai/tokenomics"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.259Z",
+    "createdAt": "2023-12-04T15:16:36.259Z",
+    "updatedAt": "2023-12-04T15:16:38.131Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "402dec74-0327-47c8-9f8d-a3cd8e80a73b"
+  }
+]

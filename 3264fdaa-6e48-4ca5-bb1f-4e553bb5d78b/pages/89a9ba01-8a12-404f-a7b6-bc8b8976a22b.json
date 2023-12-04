@@ -1,0 +1,74 @@
+[
+  {
+    "id": "89a9ba01-8a12-404f-a7b6-bc8b8976a22b",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "What PenX can do?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "364def28-afaa-412f-96e7-ded52c9cc718",
+      "2354473c-4bab-4f75-851b-4a673086466e"
+    ],
+    "openedAt": "2023-12-04T15:16:36.198Z",
+    "createdAt": "2023-12-04T15:16:36.198Z",
+    "updatedAt": "2023-12-04T15:16:38.061Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "7c689372-752a-45d3-9421-fa92cc869a04"
+  },
+  {
+    "id": "364def28-afaa-412f-96e7-ded52c9cc718",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Note-taking"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.202Z",
+    "createdAt": "2023-12-04T15:16:36.202Z",
+    "updatedAt": "2023-12-04T15:16:38.065Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "89a9ba01-8a12-404f-a7b6-bc8b8976a22b"
+  },
+  {
+    "id": "2354473c-4bab-4f75-851b-4a673086466e",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Task"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.207Z",
+    "createdAt": "2023-12-04T15:16:36.207Z",
+    "updatedAt": "2023-12-04T15:16:38.070Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "89a9ba01-8a12-404f-a7b6-bc8b8976a22b"
+  }
+]

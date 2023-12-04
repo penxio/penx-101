@@ -1,0 +1,26 @@
+[
+  {
+    "id": "52bb22bb-5be2-43f7-ad49-5ac726edf730",
+    "type": "FAVORITE",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T14:57:17.666Z",
+    "createdAt": "2023-12-04T15:07:12.186Z",
+    "updatedAt": "2023-12-04T15:07:12.186Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": null,
+    "databaseId": null
+  }
+]

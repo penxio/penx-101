@@ -1,0 +1,25 @@
+[
+  {
+    "id": "d71d25ac-fdf5-4e90-b51a-cffca2ae7c56",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Community driven"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.104Z",
+    "createdAt": "2023-12-04T15:16:36.104Z",
+    "updatedAt": "2023-12-04T15:16:37.952Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "7c689372-752a-45d3-9421-fa92cc869a04"
+  }
+]

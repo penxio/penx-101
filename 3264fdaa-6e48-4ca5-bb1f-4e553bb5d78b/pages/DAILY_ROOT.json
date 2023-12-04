@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4b285421-1516-4014-8b37-f54bbaa3d51c",
+    "type": "DAILY_ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "2eac77af-ae56-4baa-961b-e786469d2fce"
+    ],
+    "openedAt": "2023-12-04T14:57:17.674Z",
+    "createdAt": "2023-12-04T15:07:12.178Z",
+    "updatedAt": "2023-12-04T15:07:12.178Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": null,
+    "databaseId": null
+  }
+]

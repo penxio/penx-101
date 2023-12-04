@@ -1,0 +1,25 @@
+[
+  {
+    "id": "8916caa1-327d-482e-858d-64752f33ee4f",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Trust our code, not our word"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-04T15:16:36.100Z",
+    "createdAt": "2023-12-04T15:16:36.100Z",
+    "updatedAt": "2023-12-04T15:16:37.947Z",
+    "spaceId": "3264fdaa-6e48-4ca5-bb1f-4e553bb5d78b",
+    "parentId": "7c689372-752a-45d3-9421-fa92cc869a04"
+  }
+]
