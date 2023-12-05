@@ -1,0 +1,236 @@
+[
+  {
+    "id": "7c567962-0a95-4732-987f-208f86ab207d",
+    "type": "DATABASE",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "frontend"
+          }
+        ]
+      }
+    ],
+    "props": {
+      "color": "pink500",
+      "name": "frontend"
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T03:27:59.295Z",
+    "createdAt": "2023-12-05T03:27:59.295Z",
+    "updatedAt": "2023-12-05T03:27:59.295Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "be4dab7d-1d69-49d8-bae6-507e5901ce24"
+  },
+  {
+    "id": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef",
+    "type": "COLUMN",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "name": "Description",
+      "description": "",
+      "fieldType": "Text",
+      "isPrimary": false,
+      "config": {},
+      "width": 160
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T03:27:59.309Z",
+    "createdAt": "2023-12-05T03:27:59.309Z",
+    "updatedAt": "2023-12-05T03:27:59.309Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "54c534d9-49ac-4def-9de6-3160f8a66fa7",
+    "type": "VIEW",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "name": "List",
+      "viewType": "List"
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "dbfdb419-778e-440b-82a8-c96cf3517c68",
+      "32b3132d-59c5-4c68-8f5a-dc196f3e2aef"
+    ],
+    "openedAt": "2023-12-05T03:27:59.319Z",
+    "createdAt": "2023-12-05T03:27:59.319Z",
+    "updatedAt": "2023-12-05T03:27:59.319Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "b25255a3-a6e8-4675-acd3-6a137f6a253a",
+    "type": "VIEW",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "name": "Table",
+      "viewType": "Table"
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "dbfdb419-778e-440b-82a8-c96cf3517c68",
+      "32b3132d-59c5-4c68-8f5a-dc196f3e2aef"
+    ],
+    "openedAt": "2023-12-05T03:27:59.313Z",
+    "createdAt": "2023-12-05T03:27:59.313Z",
+    "updatedAt": "2023-12-05T03:27:59.313Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "ce7eae66-58ca-4b95-81cc-711397c147d9",
+    "type": "CELL",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "columnId": "dbfdb419-778e-440b-82a8-c96cf3517c68",
+      "rowId": "f84ba53b-f0ab-49ab-85f9-7608ede5ede5",
+      "ref": "817a87d4-1987-42ee-a9ac-df174884f4c6",
+      "fieldType": "Text",
+      "options": [],
+      "data": ""
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T03:27:59.968Z",
+    "createdAt": "2023-12-05T03:27:59.968Z",
+    "updatedAt": "2023-12-05T03:27:59.968Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "dbfdb419-778e-440b-82a8-c96cf3517c68",
+    "type": "COLUMN",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "name": "Note",
+      "description": "",
+      "fieldType": "Text",
+      "isPrimary": true,
+      "width": 180,
+      "config": {}
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T03:27:59.303Z",
+    "createdAt": "2023-12-05T03:27:59.303Z",
+    "updatedAt": "2023-12-05T03:27:59.303Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "f0462028-8e12-4f15-bde8-882ccf82fb88",
+    "type": "CELL",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "columnId": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef",
+      "rowId": "f84ba53b-f0ab-49ab-85f9-7608ede5ede5",
+      "ref": "",
+      "fieldType": "Text",
+      "options": [],
+      "data": ""
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T03:27:59.968Z",
+    "createdAt": "2023-12-05T03:27:59.968Z",
+    "updatedAt": "2023-12-05T03:27:59.968Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "f84ba53b-f0ab-49ab-85f9-7608ede5ede5",
+    "type": "ROW",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T03:27:59.961Z",
+    "createdAt": "2023-12-05T03:27:59.961Z",
+    "updatedAt": "2023-12-05T03:27:59.961Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  }
+]

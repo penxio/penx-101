@@ -15,10 +15,13 @@
     "props": {},
     "collapsed": false,
     "folded": true,
-    "children": [],
+    "children": [
+      "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
+      "7c567962-0a95-4732-987f-208f86ab207d"
+    ],
     "openedAt": "2023-12-05T01:56:51.649Z",
     "createdAt": "2023-12-05T01:56:51.649Z",
-    "updatedAt": "2023-12-05T01:56:51.649Z",
+    "updatedAt": "2023-12-05T03:27:59.295Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c"
   }
 ]
