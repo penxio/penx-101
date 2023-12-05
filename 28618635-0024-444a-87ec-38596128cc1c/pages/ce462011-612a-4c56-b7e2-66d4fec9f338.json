@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "Primary tech stack"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "817a87d4-1987-42ee-a9ac-df174884f4c6",
+      "a7044496-a776-4fcd-9335-1ceff0447bf3",
+      "dd156fae-a068-4a5f-b6c6-e74b20eb58d3",
+      "13659065-126e-4789-8a9e-00fa2dc242cd",
+      "c411efd3-d74b-4ad7-80f3-3e1b5486fe9c",
+      "6b3d1441-6061-4340-afe7-96ad9b771252",
+      "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d"
+    ],
+    "openedAt": "2023-12-05T02:39:21.908Z",
+    "createdAt": "2023-12-05T02:39:21.908Z",
+    "updatedAt": "2023-12-05T03:26:59.060Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  },
+  {
+    "id": "817a87d4-1987-42ee-a9ac-df174884f4c6",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Next.js"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T02:32:50.684Z",
+    "createdAt": "2023-12-05T02:32:50.684Z",
+    "updatedAt": "2023-12-05T03:26:59.065Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+  },
+  {
+    "id": "a7044496-a776-4fcd-9335-1ceff0447bf3",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "TypeScript"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T02:32:58.659Z",
+    "createdAt": "2023-12-05T02:32:58.659Z",
+    "updatedAt": "2023-12-05T03:26:59.070Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+  },
+  {
+    "id": "dd156fae-a068-4a5f-b6c6-e74b20eb58d3",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "tRPC"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T02:38:39.612Z",
+    "createdAt": "2023-12-05T02:38:39.612Z",
+    "updatedAt": "2023-12-05T03:26:59.075Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+  },
+  {
+    "id": "13659065-126e-4789-8a9e-00fa2dc242cd",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Prisma"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T02:38:40.853Z",
+    "createdAt": "2023-12-05T02:38:40.853Z",
+    "updatedAt": "2023-12-05T03:26:59.080Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+  },
+  {
+    "id": "c411efd3-d74b-4ad7-80f3-3e1b5486fe9c",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "NextAuth.js"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T02:38:42.054Z",
+    "createdAt": "2023-12-05T02:38:42.054Z",
+    "updatedAt": "2023-12-05T03:26:59.085Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+  },
+  {
+    "id": "6b3d1441-6061-4340-afe7-96ad9b771252",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Slate.js"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T02:38:43.203Z",
+    "createdAt": "2023-12-05T02:38:43.203Z",
+    "updatedAt": "2023-12-05T03:26:59.091Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+  },
+  {
+    "id": "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "IndexedDB"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T02:38:44.611Z",
+    "createdAt": "2023-12-05T02:38:44.611Z",
+    "updatedAt": "2023-12-05T03:26:59.096Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+  }
+]

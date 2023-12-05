@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7fa05825-9154-4502-a46b-d9a3ff9b8e40",
+    "type": "DAILY_ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "7206c77a-e6fa-4619-8e55-80b098808bd9"
+    ],
+    "openedAt": "2023-12-05T01:56:51.653Z",
+    "createdAt": "2023-12-05T01:56:51.653Z",
+    "updatedAt": "2023-12-05T01:56:51.676Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c"
+  }
+]

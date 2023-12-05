@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1a3e3152-7e13-456b-b627-14188e56703a",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Local-first software"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T01:57:54.829Z",
+    "createdAt": "2023-12-05T01:57:54.829Z",
+    "updatedAt": "2023-12-05T03:26:59.000Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]

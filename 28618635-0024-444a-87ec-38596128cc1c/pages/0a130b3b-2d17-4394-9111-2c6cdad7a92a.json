@@ -1,0 +1,25 @@
+[
+  {
+    "id": "0a130b3b-2d17-4394-9111-2c6cdad7a92a",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "A note-taking App for gee"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T01:57:54.811Z",
+    "createdAt": "2023-12-05T01:57:54.811Z",
+    "updatedAt": "2023-12-05T03:26:58.980Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "146a81be-ed14-49e4-b722-492a8a132b27",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "What PenX can do?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T01:57:54.868Z",
+    "createdAt": "2023-12-05T01:57:54.868Z",
+    "updatedAt": "2023-12-05T03:26:59.040Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "d3fa8667-a3b1-42dc-9582-19219ce485c4",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Hello world"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T01:57:54.775Z",
+    "createdAt": "2023-12-05T01:57:54.775Z",
+    "updatedAt": "2023-12-05T03:26:58.940Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]

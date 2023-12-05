@@ -1,0 +1,25 @@
+[
+  {
+    "id": "c04fa8e4-3424-4cee-8017-fc0eaf8ee63b",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Github"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T01:57:54.791Z",
+    "createdAt": "2023-12-05T01:57:54.791Z",
+    "updatedAt": "2023-12-05T03:26:58.960Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]

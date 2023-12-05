@@ -1,0 +1,25 @@
+[
+  {
+    "id": "9c647a29-36e0-4d32-8ba2-51ec24cdd8e6",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Local-first software - Peter Van Hardenberg"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T01:57:54.849Z",
+    "createdAt": "2023-12-05T01:57:54.849Z",
+    "updatedAt": "2023-12-05T03:26:59.020Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]

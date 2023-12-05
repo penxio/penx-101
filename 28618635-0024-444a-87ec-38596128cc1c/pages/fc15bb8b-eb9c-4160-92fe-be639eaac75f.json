@@ -1,0 +1,25 @@
+[
+  {
+    "id": "fc15bb8b-eb9c-4160-92fe-be639eaac75f",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "You own your data, in spite of the cloud"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T01:57:54.834Z",
+    "createdAt": "2023-12-05T01:57:54.834Z",
+    "updatedAt": "2023-12-05T03:26:59.005Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]
