@@ -22,13 +22,15 @@
       "13659065-126e-4789-8a9e-00fa2dc242cd",
       "c411efd3-d74b-4ad7-80f3-3e1b5486fe9c",
       "6b3d1441-6061-4340-afe7-96ad9b771252",
-      "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d"
+      "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d",
+      "e15ed78a-6e84-4cbe-a443-2dc3ecbff900"
     ],
     "openedAt": "2023-12-05T02:39:21.908Z",
-    "createdAt": "2023-12-05T02:39:21.908Z",
-    "updatedAt": "2023-12-05T03:28:07.928Z",
+    "createdAt": "2023-12-05T04:39:04.432Z",
+    "updatedAt": "2023-12-05T04:39:22.397Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
+    "databaseId": null
   },
   {
     "id": "817a87d4-1987-42ee-a9ac-df174884f4c6",
@@ -41,30 +43,30 @@
             "text": "Next.js "
           },
           {
+            "name": "backend",
             "type": "tag",
+            "isOpen": false,
+            "trigger": "#",
             "children": [
               {
                 "text": "#backend"
               }
             ],
-            "trigger": "#",
-            "isOpen": false,
-            "name": "backend",
             "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
           },
           {
             "text": " "
           },
           {
+            "name": "frontend",
             "type": "tag",
+            "isOpen": false,
+            "trigger": "#",
             "children": [
               {
                 "text": "#"
               }
             ],
-            "trigger": "#",
-            "isOpen": false,
-            "name": "frontend",
             "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
           },
           {
@@ -78,10 +80,11 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T02:32:50.684Z",
-    "createdAt": "2023-12-05T02:32:50.684Z",
-    "updatedAt": "2023-12-05T03:28:07.934Z",
+    "createdAt": "2023-12-05T04:39:04.408Z",
+    "updatedAt": "2023-12-05T04:39:22.401Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
   },
   {
     "id": "a7044496-a776-4fcd-9335-1ceff0447bf3",
@@ -91,7 +94,7 @@
         "type": "p",
         "children": [
           {
-            "text": "TypeScript"
+            "text": "TypeScript "
           }
         ]
       }
@@ -101,10 +104,11 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T02:32:58.659Z",
-    "createdAt": "2023-12-05T02:32:58.659Z",
-    "updatedAt": "2023-12-05T03:28:07.944Z",
+    "createdAt": "2023-12-05T04:39:04.412Z",
+    "updatedAt": "2023-12-05T04:39:22.413Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
   },
   {
     "id": "dd156fae-a068-4a5f-b6c6-e74b20eb58d3",
@@ -114,7 +118,22 @@
         "type": "p",
         "children": [
           {
-            "text": "tRPC"
+            "text": "tRPC "
+          },
+          {
+            "name": "backend",
+            "type": "tag",
+            "isOpen": false,
+            "trigger": "#",
+            "children": [
+              {
+                "text": "#"
+              }
+            ],
+            "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -124,10 +143,11 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T02:38:39.612Z",
-    "createdAt": "2023-12-05T02:38:39.612Z",
-    "updatedAt": "2023-12-05T03:28:07.949Z",
+    "createdAt": "2023-12-05T04:39:04.482Z",
+    "updatedAt": "2023-12-05T04:39:22.417Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
   },
   {
     "id": "13659065-126e-4789-8a9e-00fa2dc242cd",
@@ -137,7 +157,22 @@
         "type": "p",
         "children": [
           {
-            "text": "Prisma"
+            "text": "Prisma "
+          },
+          {
+            "name": "backend",
+            "type": "tag",
+            "isOpen": false,
+            "trigger": "#",
+            "children": [
+              {
+                "text": "#"
+              }
+            ],
+            "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -147,10 +182,11 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T02:38:40.853Z",
-    "createdAt": "2023-12-05T02:38:40.853Z",
-    "updatedAt": "2023-12-05T03:28:07.954Z",
+    "createdAt": "2023-12-05T04:39:04.488Z",
+    "updatedAt": "2023-12-05T04:39:22.425Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
   },
   {
     "id": "c411efd3-d74b-4ad7-80f3-3e1b5486fe9c",
@@ -160,7 +196,7 @@
         "type": "p",
         "children": [
           {
-            "text": "NextAuth.js"
+            "text": "NextAuth.js "
           }
         ]
       }
@@ -170,10 +206,11 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T02:38:42.054Z",
-    "createdAt": "2023-12-05T02:38:42.054Z",
-    "updatedAt": "2023-12-05T03:28:07.959Z",
+    "createdAt": "2023-12-05T04:39:04.582Z",
+    "updatedAt": "2023-12-05T04:39:22.432Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
   },
   {
     "id": "6b3d1441-6061-4340-afe7-96ad9b771252",
@@ -183,7 +220,22 @@
         "type": "p",
         "children": [
           {
-            "text": "Slate.js"
+            "text": "Slate.js "
+          },
+          {
+            "name": "frontend",
+            "type": "tag",
+            "isOpen": false,
+            "trigger": "#",
+            "children": [
+              {
+                "text": "#"
+              }
+            ],
+            "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -193,10 +245,11 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T02:38:43.203Z",
-    "createdAt": "2023-12-05T02:38:43.203Z",
-    "updatedAt": "2023-12-05T03:28:07.964Z",
+    "createdAt": "2023-12-05T04:39:04.587Z",
+    "updatedAt": "2023-12-05T04:39:22.437Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
   },
   {
     "id": "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d",
@@ -216,9 +269,34 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T02:38:44.611Z",
-    "createdAt": "2023-12-05T02:38:44.611Z",
-    "updatedAt": "2023-12-05T03:28:07.969Z",
+    "createdAt": "2023-12-05T04:39:04.436Z",
+    "updatedAt": "2023-12-05T04:39:22.444Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
+  },
+  {
+    "id": "e15ed78a-6e84-4cbe-a443-2dc3ecbff900",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-05T03:39:08.153Z",
+    "createdAt": "2023-12-05T04:39:04.592Z",
+    "updatedAt": "2023-12-05T04:39:22.449Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
+    "databaseId": null
   }
 ]
