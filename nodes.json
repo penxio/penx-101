@@ -777,14 +777,14 @@
     ],
     "props": {
       "name": "frontend",
-      "color": "pink500"
+      "color": "violet500"
     },
     "collapsed": false,
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T03:27:59.295Z",
     "createdAt": "2023-12-05T04:39:04.441Z",
-    "updatedAt": "2023-12-05T04:39:04.441Z",
+    "updatedAt": "2023-12-08T03:19:37.342Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "be4dab7d-1d69-49d8-bae6-507e5901ce24",
     "databaseId": null
