@@ -1,0 +1,23 @@
+{
+  "id": "b2c1ca1c-3846-4b44-b994-50be02da086c",
+  "name": "zion",
+  "sort": 1,
+  "isActive": true,
+  "isCloud": true,
+  "encrypted": true,
+  "password": "5054",
+  "color": "fuchsia500",
+  "activeNodeIds": [
+    "328b092f-011d-4e05-9a5c-d0cf41a35a3f"
+  ],
+  "nodeSnapshot": {
+    "version": 0,
+    "nodeMap": {}
+  },
+  "pageSnapshot": {
+    "version": 0,
+    "pageMap": {}
+  },
+  "createdAt": "2023-12-08T03:27:32.115Z",
+  "updatedAt": "2023-12-08T03:27:32.115Z"
+}
