@@ -4,7 +4,7 @@
     "type": "COMMON",
     "element": [
       {
-        "type": "p",
+        "type": "h2",
         "children": [
           {
             "text": "How to setup sync?"
@@ -17,9 +17,10 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T01:57:54.864Z",
-    "createdAt": "2023-12-05T01:57:54.864Z",
-    "updatedAt": "2023-12-05T03:26:59.035Z",
+    "createdAt": "2023-12-12T02:45:03.411Z",
+    "updatedAt": "2023-12-12T03:01:10.313Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
+    "databaseId": null
   }
 ]
