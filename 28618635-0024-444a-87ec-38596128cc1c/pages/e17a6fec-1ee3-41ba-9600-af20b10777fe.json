@@ -1,0 +1,77 @@
+[
+  {
+    "id": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Features",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "8af94a99-2ab7-4476-a944-c55caeaa58c6"
+    ],
+    "openedAt": "2023-12-12T02:40:22.733Z",
+    "createdAt": "2023-12-12T02:40:22.733Z",
+    "updatedAt": "2023-12-12T02:41:02.948Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  },
+  {
+    "id": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Local-First",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "e251b81a-cd98-4554-86cf-9a8d48f82b47"
+    ],
+    "openedAt": "2023-12-12T02:40:36.547Z",
+    "createdAt": "2023-12-12T02:40:36.547Z",
+    "updatedAt": "2023-12-12T02:41:02.952Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe"
+  },
+  {
+    "id": "e251b81a-cd98-4554-86cf-9a8d48f82b47",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "You own your data, in spite of the cloud"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-12T02:40:50.708Z",
+    "createdAt": "2023-12-12T02:40:50.708Z",
+    "updatedAt": "2023-12-12T02:41:02.956Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "8af94a99-2ab7-4476-a944-c55caeaa58c6"
+  }
+]
