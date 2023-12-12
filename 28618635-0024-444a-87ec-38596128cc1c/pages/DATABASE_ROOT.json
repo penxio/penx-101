@@ -17,11 +17,14 @@
     "folded": true,
     "children": [
       "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-      "7c567962-0a95-4732-987f-208f86ab207d"
+      "7c567962-0a95-4732-987f-208f86ab207d",
+      "297cc812-af8e-4753-8941-f3313a37e5eb"
     ],
     "openedAt": "2023-12-05T01:56:51.649Z",
-    "createdAt": "2023-12-05T01:56:51.649Z",
-    "updatedAt": "2023-12-05T03:27:59.295Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c"
+    "createdAt": "2023-12-12T03:15:02.173Z",
+    "updatedAt": "2023-12-12T03:15:07.019Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": null,
+    "databaseId": null
   }
 ]
