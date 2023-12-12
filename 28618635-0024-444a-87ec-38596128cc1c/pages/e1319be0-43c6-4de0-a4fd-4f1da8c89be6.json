@@ -15,38 +15,12 @@
     "props": {},
     "collapsed": false,
     "folded": true,
-    "children": [
-      "ea8302bc-9798-4c75-af9d-a8bfb6d07d47"
-    ],
+    "children": [],
     "openedAt": "2023-12-05T01:57:54.761Z",
     "createdAt": "2023-12-05T04:39:04.403Z",
-    "updatedAt": "2023-12-05T04:39:22.241Z",
+    "updatedAt": "2023-12-12T02:32:59.480Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "databaseId": null
-  },
-  {
-    "id": "ea8302bc-9798-4c75-af9d-a8bfb6d07d47",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:55:55.101Z",
-    "createdAt": "2023-12-05T04:39:04.606Z",
-    "updatedAt": "2023-12-05T04:39:22.249Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "e1319be0-43c6-4de0-a4fd-4f1da8c89be6",
     "databaseId": null
   }
 ]

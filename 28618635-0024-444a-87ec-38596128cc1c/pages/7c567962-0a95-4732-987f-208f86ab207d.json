@@ -143,6 +143,68 @@
     "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
   },
   {
+    "id": "a2013252-791c-405a-941b-5f0a06e57c1f",
+    "type": "CELL",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "columnId": "dbfdb419-778e-440b-82a8-c96cf3517c68",
+      "rowId": "e46e9901-76c6-492d-8bd7-c1bcb15e47a6",
+      "ref": "5f48075e-3831-4fae-aa48-c9510b715915",
+      "fieldType": "Text",
+      "options": [],
+      "data": ""
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-12T02:32:33.314Z",
+    "createdAt": "2023-12-12T02:32:33.314Z",
+    "updatedAt": "2023-12-12T02:32:33.314Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "a98122a8-6fa3-4430-a597-ced1d991fd7b",
+    "type": "CELL",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "columnId": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef",
+      "rowId": "e46e9901-76c6-492d-8bd7-c1bcb15e47a6",
+      "ref": "",
+      "fieldType": "Text",
+      "options": [],
+      "data": ""
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-12T02:32:33.314Z",
+    "createdAt": "2023-12-12T02:32:33.314Z",
+    "updatedAt": "2023-12-12T02:32:33.314Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
     "id": "b25255a3-a6e8-4675-acd3-6a137f6a253a",
     "type": "VIEW",
     "element": [
@@ -264,6 +326,30 @@
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
     "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
+  },
+  {
+    "id": "e46e9901-76c6-492d-8bd7-c1bcb15e47a6",
+    "type": "ROW",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-12T02:32:33.308Z",
+    "createdAt": "2023-12-12T02:32:33.308Z",
+    "updatedAt": "2023-12-12T02:32:33.308Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d",
+    "parentId": "7c567962-0a95-4732-987f-208f86ab207d"
   },
   {
     "id": "f0462028-8e12-4f15-bde8-882ccf82fb88",

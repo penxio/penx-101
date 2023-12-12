@@ -23,11 +23,12 @@
       "c411efd3-d74b-4ad7-80f3-3e1b5486fe9c",
       "6b3d1441-6061-4340-afe7-96ad9b771252",
       "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d",
+      "5f48075e-3831-4fae-aa48-c9510b715915",
       "e15ed78a-6e84-4cbe-a443-2dc3ecbff900"
     ],
     "openedAt": "2023-12-05T02:39:21.908Z",
     "createdAt": "2023-12-05T04:39:04.432Z",
-    "updatedAt": "2023-12-05T04:39:22.397Z",
+    "updatedAt": "2023-12-12T02:32:59.619Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
     "databaseId": null
@@ -81,7 +82,7 @@
     "children": [],
     "openedAt": "2023-12-05T02:32:50.684Z",
     "createdAt": "2023-12-05T04:39:04.408Z",
-    "updatedAt": "2023-12-05T04:39:22.401Z",
+    "updatedAt": "2023-12-12T02:32:59.624Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
@@ -105,7 +106,7 @@
     "children": [],
     "openedAt": "2023-12-05T02:32:58.659Z",
     "createdAt": "2023-12-05T04:39:04.412Z",
-    "updatedAt": "2023-12-05T04:39:22.413Z",
+    "updatedAt": "2023-12-12T02:32:59.637Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
@@ -144,7 +145,7 @@
     "children": [],
     "openedAt": "2023-12-05T02:38:39.612Z",
     "createdAt": "2023-12-05T04:39:04.482Z",
-    "updatedAt": "2023-12-05T04:39:22.417Z",
+    "updatedAt": "2023-12-12T02:32:59.642Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
@@ -183,7 +184,7 @@
     "children": [],
     "openedAt": "2023-12-05T02:38:40.853Z",
     "createdAt": "2023-12-05T04:39:04.488Z",
-    "updatedAt": "2023-12-05T04:39:22.425Z",
+    "updatedAt": "2023-12-12T02:32:59.651Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
@@ -207,7 +208,7 @@
     "children": [],
     "openedAt": "2023-12-05T02:38:42.054Z",
     "createdAt": "2023-12-05T04:39:04.582Z",
-    "updatedAt": "2023-12-05T04:39:22.432Z",
+    "updatedAt": "2023-12-12T02:32:59.659Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
@@ -246,7 +247,7 @@
     "children": [],
     "openedAt": "2023-12-05T02:38:43.203Z",
     "createdAt": "2023-12-05T04:39:04.587Z",
-    "updatedAt": "2023-12-05T04:39:22.437Z",
+    "updatedAt": "2023-12-12T02:32:59.664Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
@@ -259,7 +260,7 @@
         "type": "p",
         "children": [
           {
-            "text": "IndexedDB"
+            "text": "IndexedDB "
           }
         ]
       }
@@ -270,10 +271,48 @@
     "children": [],
     "openedAt": "2023-12-05T02:38:44.611Z",
     "createdAt": "2023-12-05T04:39:04.436Z",
-    "updatedAt": "2023-12-05T04:39:22.444Z",
+    "updatedAt": "2023-12-12T02:32:59.672Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
+  },
+  {
+    "id": "5f48075e-3831-4fae-aa48-c9510b715915",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "PWA "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "frontend",
+            "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
+          },
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-12T02:32:27.919Z",
+    "createdAt": "2023-12-12T02:32:27.920Z",
+    "updatedAt": "2023-12-12T02:32:59.677Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338"
   },
   {
     "id": "e15ed78a-6e84-4cbe-a443-2dc3ecbff900",
@@ -294,7 +333,7 @@
     "children": [],
     "openedAt": "2023-12-05T03:39:08.153Z",
     "createdAt": "2023-12-05T04:39:04.592Z",
-    "updatedAt": "2023-12-05T04:39:22.449Z",
+    "updatedAt": "2023-12-12T02:32:59.684Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
     "databaseId": null
