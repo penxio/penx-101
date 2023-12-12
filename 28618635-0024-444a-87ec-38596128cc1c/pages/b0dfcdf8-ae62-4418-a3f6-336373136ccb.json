@@ -1,0 +1,25 @@
+[
+  {
+    "id": "b0dfcdf8-ae62-4418-a3f6-336373136ccb",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "blockquote",
+        "children": [
+          {
+            "text": "Now PenX is in Beta!!!"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-12T05:23:06.181Z",
+    "createdAt": "2023-12-12T05:23:06.181Z",
+    "updatedAt": "2023-12-12T05:23:24.892Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+  }
+]
