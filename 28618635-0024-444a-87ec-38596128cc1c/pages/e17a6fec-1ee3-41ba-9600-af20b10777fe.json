@@ -7,8 +7,8 @@
         "type": "p",
         "children": [
           {
-            "text": "Features",
-            "bold": true
+            "bold": true,
+            "text": "Features"
           }
         ]
       }
@@ -17,13 +17,15 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "8af94a99-2ab7-4476-a944-c55caeaa58c6"
+      "8af94a99-2ab7-4476-a944-c55caeaa58c6",
+      "66a49505-f072-44a8-abb0-8fc2d7854efe"
     ],
     "openedAt": "2023-12-12T02:40:22.733Z",
-    "createdAt": "2023-12-12T02:40:22.733Z",
-    "updatedAt": "2023-12-12T02:41:02.948Z",
+    "createdAt": "2023-12-12T02:45:03.629Z",
+    "updatedAt": "2023-12-12T02:45:03.629Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
+    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
+    "databaseId": null
   },
   {
     "id": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
@@ -33,8 +35,8 @@
         "type": "p",
         "children": [
           {
-            "text": "Local-First",
-            "bold": true
+            "bold": true,
+            "text": "Local-First"
           }
         ]
       }
@@ -46,10 +48,11 @@
       "e251b81a-cd98-4554-86cf-9a8d48f82b47"
     ],
     "openedAt": "2023-12-12T02:40:36.547Z",
-    "createdAt": "2023-12-12T02:40:36.547Z",
-    "updatedAt": "2023-12-12T02:41:02.952Z",
+    "createdAt": "2023-12-12T02:45:03.625Z",
+    "updatedAt": "2023-12-12T02:45:03.625Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe"
+    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
+    "databaseId": null
   },
   {
     "id": "e251b81a-cd98-4554-86cf-9a8d48f82b47",
@@ -69,9 +72,60 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-12T02:40:50.708Z",
-    "createdAt": "2023-12-12T02:40:50.708Z",
-    "updatedAt": "2023-12-12T02:41:02.956Z",
+    "createdAt": "2023-12-12T02:45:03.621Z",
+    "updatedAt": "2023-12-12T02:45:03.621Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "8af94a99-2ab7-4476-a944-c55caeaa58c6"
+    "parentId": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
+    "databaseId": null
+  },
+  {
+    "id": "66a49505-f072-44a8-abb0-8fc2d7854efe",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Privacy-First"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "9f227468-1c30-499f-876e-f7a931e31747"
+    ],
+    "openedAt": "2023-12-12T02:44:42.362Z",
+    "createdAt": "2023-12-12T02:45:03.657Z",
+    "updatedAt": "2023-12-12T02:45:03.657Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
+    "databaseId": null
+  },
+  {
+    "id": "9f227468-1c30-499f-876e-f7a931e31747",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Use End-To-End Encryption to sync data"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-12T02:44:49.713Z",
+    "createdAt": "2023-12-12T02:45:03.669Z",
+    "updatedAt": "2023-12-12T02:45:03.669Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "66a49505-f072-44a8-abb0-8fc2d7854efe",
+    "databaseId": null
   }
 ]

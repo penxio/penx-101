@@ -7,8 +7,8 @@
         "type": "p",
         "children": [
           {
-            "text": "What is PenX？",
-            "bold": true
+            "bold": true,
+            "text": "What is PenX？"
           }
         ]
       }
@@ -21,8 +21,8 @@
       "360818e8-c6ab-4525-93fe-92ebb6e8d3b8"
     ],
     "openedAt": "2023-12-05T01:57:54.766Z",
-    "createdAt": "2023-12-05T04:39:04.323Z",
-    "updatedAt": "2023-12-12T02:41:02.931Z",
+    "createdAt": "2023-12-12T02:45:03.665Z",
+    "updatedAt": "2023-12-12T02:45:03.665Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
     "databaseId": null
@@ -45,10 +45,11 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-12T02:32:59.490Z",
-    "createdAt": "2023-12-12T02:32:59.490Z",
-    "updatedAt": "2023-12-12T02:41:02.936Z",
+    "createdAt": "2023-12-12T02:45:03.661Z",
+    "updatedAt": "2023-12-12T02:45:03.661Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "31da9ed9-4be0-4865-a775-bb21e06bdaf2"
+    "parentId": "31da9ed9-4be0-4865-a775-bb21e06bdaf2",
+    "databaseId": null
   },
   {
     "id": "360818e8-c6ab-4525-93fe-92ebb6e8d3b8",
@@ -61,8 +62,8 @@
             "text": "More than a note-taking app, It could be your personal "
           },
           {
-            "text": "database",
-            "bold": true
+            "bold": true,
+            "text": "database"
           },
           {
             "text": " with easy input and output."
@@ -75,9 +76,10 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-12T02:39:21.517Z",
-    "createdAt": "2023-12-12T02:39:21.517Z",
-    "updatedAt": "2023-12-12T02:41:02.940Z",
+    "createdAt": "2023-12-12T02:45:03.673Z",
+    "updatedAt": "2023-12-12T02:45:03.673Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "31da9ed9-4be0-4865-a775-bb21e06bdaf2"
+    "parentId": "31da9ed9-4be0-4865-a775-bb21e06bdaf2",
+    "databaseId": null
   }
 ]
