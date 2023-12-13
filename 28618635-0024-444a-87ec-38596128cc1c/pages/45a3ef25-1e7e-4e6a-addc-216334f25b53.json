@@ -15,12 +15,86 @@
     "props": {},
     "collapsed": false,
     "folded": true,
-    "children": [],
+    "children": [
+      "f93bed61-032a-4976-a7a4-5fdbdb57d6bb",
+      "77371785-bee7-46e0-92ab-069f814529cc"
+    ],
     "openedAt": "2023-12-05T01:57:54.864Z",
     "createdAt": "2023-12-13T07:11:20.667Z",
-    "updatedAt": "2023-12-13T07:11:20.667Z",
+    "updatedAt": "2023-12-13T07:41:16.042Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
     "databaseId": null
+  },
+  {
+    "id": "f93bed61-032a-4976-a7a4-5fdbdb57d6bb",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Setup GitHub backup"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-13T07:40:04.765Z",
+    "createdAt": "2023-12-13T07:40:04.765Z",
+    "updatedAt": "2023-12-13T07:41:16.046Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "45a3ef25-1e7e-4e6a-addc-216334f25b53"
+  },
+  {
+    "id": "77371785-bee7-46e0-92ab-069f814529cc",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Setup cloud sync"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "44b50c2d-3036-44bd-b0e7-50ed0108a6f8"
+    ],
+    "openedAt": "2023-12-13T07:40:46.908Z",
+    "createdAt": "2023-12-13T07:40:46.908Z",
+    "updatedAt": "2023-12-13T07:41:16.051Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "45a3ef25-1e7e-4e6a-addc-216334f25b53"
+  },
+  {
+    "id": "44b50c2d-3036-44bd-b0e7-50ed0108a6f8",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-13T07:39:47.855Z",
+    "createdAt": "2023-12-13T07:39:47.855Z",
+    "updatedAt": "2023-12-13T07:41:16.056Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "77371785-bee7-46e0-92ab-069f814529cc"
   }
 ]
