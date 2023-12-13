@@ -7,7 +7,7 @@
         "type": "p",
         "children": [
           {
-            "text": ""
+            "text": "Trash"
           }
         ]
       }
@@ -17,8 +17,10 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T01:56:51.638Z",
-    "createdAt": "2023-12-05T01:56:51.638Z",
-    "updatedAt": "2023-12-05T01:56:51.638Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c"
+    "createdAt": "2023-12-13T07:11:20.547Z",
+    "updatedAt": "2023-12-13T07:11:20.547Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": null,
+    "databaseId": null
   }
 ]
