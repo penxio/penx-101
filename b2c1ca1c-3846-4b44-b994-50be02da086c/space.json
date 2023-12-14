@@ -1,17 +1,18 @@
 {
   "id": "b2c1ca1c-3846-4b44-b994-50be02da086c",
   "name": "zion",
-  "sort": 1,
-  "isActive": true,
-  "isCloud": true,
-  "encrypted": true,
-  "password": "5054",
+  "description": null,
+  "subdomain": "c5a655c4-3408-4a94-88bb-d5841be9765f",
+  "customDomain": null,
+  "sort": 0,
   "color": "fuchsia500",
+  "isActive": true,
+  "encrypted": true,
   "activeNodeIds": [
-    "328b092f-011d-4e05-9a5c-d0cf41a35a3f"
+    "1e6f0074-1ef8-453a-887f-d8c1451e3bce"
   ],
   "nodeSnapshot": {
-    "version": 3,
+    "version": 0,
     "nodeMap": {
       "159570ce-2bf8-4735-adb9-9cfeadd5a1b5": "1c3594c5e08d80b4f4d02ffb543982d2b54c1eb18152c8440af909a2828357ec",
       "25c0ddae-3876-4798-82b0-cf919a335ce4": "7034ec58373317e4efe784d0a3bacbeea372621b9cd54a5fe05d8234c014dd05",
@@ -27,17 +28,13 @@
     }
   },
   "pageSnapshot": {
-    "version": 1,
-    "pageMap": {
-      "328b092f-011d-4e05-9a5c-d0cf41a35a3f": "5fe96e85f32743d6890b4d41256e1797ed0e6f8ddc71845d8abeab6b754316b5",
-      "ROOT": "ab098df20462066ff75d0b29fe46d9605bdedadb66186407aa833df70e476583",
-      "DATABASE_ROOT": "9178c9936818f4d65a143f8b5609c085ad074913cbb592cb77ffaadf50d26fd5",
-      "DAILY_ROOT": "a8f270934cb5feadf2380f9404b2cdc1952cbae132ca1c5f4095f493614f056e",
-      "FAVORITE": "0dc58e4277601f3126c43d2f983636fb5b7354267df6cb3c07e63f05b09ac2cd",
-      "INBOX": "8856b83d2255987caeae7a609ed93db0bbad725377d5d9411094cdea31b2a366",
-      "TRASH": "d319ca9faf9bcd791ca874afbf01f91f0e14442d7538ba2365c667d2366bb15e"
-    }
+    "pageMap": {},
+    "version": 0
   },
-  "createdAt": "2023-12-08T03:27:32.115Z",
-  "updatedAt": "2023-12-08T03:27:32.115Z"
+  "deletedAt": null,
+  "createdAt": "2023-12-13T07:11:19.455Z",
+  "updatedAt": "2023-12-13T07:11:19.455Z",
+  "userId": "6f56508b-075a-449c-9743-df6b42df690f",
+  "isCloud": true,
+  "password": "5054"
 }

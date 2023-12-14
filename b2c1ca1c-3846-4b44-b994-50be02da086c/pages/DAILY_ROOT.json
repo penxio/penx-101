@@ -2,16 +2,20 @@
   {
     "id": "cc1f4835-c3f3-4549-bb74-5548be16597e",
     "type": "DAILY_ROOT",
-    "element": "4db8dccbbb9183eecda55ac5fdd9dc18uFfjrXYhi26MzEfxte1qazL2EzL9x4INdwfHwBuED3V9jvr/cWquYYwuvaluPRB0W6w3Uo4sYRspEX1NDhpT7w==",
-    "props": "3ee0ca8f7f50affdfb589c527db95f5dIIMWLYpyqtimT2NKL7Fz7Q==",
+    "element": "b52cef94ff1eba30eafd57d7d44978d5ud9qfJidR6GYXuZyqy3vs+zJ6LLMGhXPjQEBn0YzI5OyWLOiMSYdufB4xKAsUJeMPmcxCAVVXgfaEiWNh3BsrQ==",
+    "props": "019f6d29da3bba9d889d41795cc517e047mOFkb2t6DlNLhd9AF9Lg==",
     "collapsed": false,
     "folded": true,
     "children": [
-      "328b092f-011d-4e05-9a5c-d0cf41a35a3f"
+      "328b092f-011d-4e05-9a5c-d0cf41a35a3f",
+      "0a53a2d2-dded-46ff-90e2-0326727cc40d",
+      "1e6f0074-1ef8-453a-887f-d8c1451e3bce"
     ],
     "openedAt": "2023-12-08T03:27:32.151Z",
-    "createdAt": "2023-12-08T03:27:32.151Z",
-    "updatedAt": "2023-12-08T03:27:32.172Z",
-    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c"
+    "createdAt": "2023-12-13T07:47:15.458Z",
+    "updatedAt": "2023-12-14T14:31:24.220Z",
+    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c",
+    "parentId": null,
+    "databaseId": null
   }
 ]

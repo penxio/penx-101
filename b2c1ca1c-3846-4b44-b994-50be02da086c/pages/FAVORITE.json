@@ -2,14 +2,16 @@
   {
     "id": "25c0ddae-3876-4798-82b0-cf919a335ce4",
     "type": "FAVORITE",
-    "element": "b4913c5a1ae8da7b17c1dda1b292702dwa/hV9Nwa+q53rxcKz+CxtN1YyxHwVkOsRdl/PZ+CPdD8z4YkBSw/9nYbJ9SgU+p",
-    "props": "ba458ae172001496a24c7a6c426f8448/FPutt9X9YFSl588+ykNhA==",
+    "element": "5b163e0ef774df94d03e50a9ebc74646OXnIFBHTJpC0GVPNSALcbdY9W/+1Pp2ew4RyvxH1HRtcy8U4DpruM0SgZD+Z68R4",
+    "props": "d3a272ccc9d7dc91d1e4c107547aa5efhDd21K8936ugxMkcIljNwQ==",
     "collapsed": false,
     "folded": true,
     "children": [],
     "openedAt": "2023-12-08T03:27:32.142Z",
-    "createdAt": "2023-12-08T03:27:32.142Z",
-    "updatedAt": "2023-12-08T03:27:32.142Z",
-    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c"
+    "createdAt": "2023-12-13T07:47:15.430Z",
+    "updatedAt": "2023-12-13T07:47:15.430Z",
+    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c",
+    "parentId": null,
+    "databaseId": null
   }
 ]

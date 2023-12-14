@@ -2,14 +2,16 @@
   {
     "id": "7b8263e8-f008-4fe4-9d79-c993e0b308ee",
     "type": "ROOT",
-    "element": "a7fcdb411dc0ef4137cce0cd72302e54jWdVx3rEqaYnoyvoy1MUYxQXZC8O8SNlOXUeqyW1hyydh+AYi4itkiD2N/3+gKnk",
-    "props": "34e3612ae3ba7566595f339aae8a6818OOaTcQEQb/zaYgyEibvz5Q==",
+    "element": "ae77f4a0d8c867608957553f07b7616cs0aHBMTSv6QG7kmFEvmL8wVT3+SW1apKNn1zn134bXW2stV3nvT0YkYp0y4HhsOy",
+    "props": "01944a22e01126b8262e97c3b2ece18dpW2GzhENEUdANQOSkt0JSA==",
     "collapsed": false,
     "folded": true,
     "children": [],
     "openedAt": "2023-12-08T03:27:32.124Z",
-    "createdAt": "2023-12-08T03:27:32.124Z",
-    "updatedAt": "2023-12-08T03:27:32.124Z",
-    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c"
+    "createdAt": "2023-12-13T07:47:15.443Z",
+    "updatedAt": "2023-12-13T07:47:15.443Z",
+    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c",
+    "parentId": null,
+    "databaseId": null
   }
 ]
