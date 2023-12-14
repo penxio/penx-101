@@ -9,7 +9,7 @@
   "isActive": true,
   "encrypted": true,
   "activeNodeIds": [
-    "1e6f0074-1ef8-453a-887f-d8c1451e3bce"
+    "4736bba3-15f2-41b3-9ea6-6783a9c16dee"
   ],
   "nodeSnapshot": {
     "version": 0,
@@ -28,8 +28,18 @@
     }
   },
   "pageSnapshot": {
-    "pageMap": {},
-    "version": 0
+    "version": 1,
+    "pageMap": {
+      "328b092f-011d-4e05-9a5c-d0cf41a35a3f": "578f8dd49bf557837ddae6180f2e0db82ed3fe85cef19d2401c4b3e50dd55764",
+      "0a53a2d2-dded-46ff-90e2-0326727cc40d": "f797f52d76fa0ee1941e8f665e8bdb0cd6e02af6fe6b3a397c5d489205c78c8a",
+      "1e6f0074-1ef8-453a-887f-d8c1451e3bce": "304a5acdbb80ec6c647a96fc5fffb25eff80f8babad3992ed3362912eeef4fdf",
+      "ROOT": "ab098df20462066ff75d0b29fe46d9605bdedadb66186407aa833df70e476583",
+      "DATABASE_ROOT": "9178c9936818f4d65a143f8b5609c085ad074913cbb592cb77ffaadf50d26fd5",
+      "DAILY_ROOT": "01205c102f166d05cb6df6b9beed659ddaf0fa8349268bec0af88afb8faa40b7",
+      "FAVORITE": "0dc58e4277601f3126c43d2f983636fb5b7354267df6cb3c07e63f05b09ac2cd",
+      "INBOX": "8856b83d2255987caeae7a609ed93db0bbad725377d5d9411094cdea31b2a366",
+      "TRASH": "d319ca9faf9bcd791ca874afbf01f91f0e14442d7538ba2365c667d2366bb15e"
+    }
   },
   "deletedAt": null,
   "createdAt": "2023-12-13T07:11:19.455Z",
