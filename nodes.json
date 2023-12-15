@@ -292,6 +292,28 @@
     "databaseId": null
   },
   {
+    "id": "b74dca99-6c90-4da3-a955-3c8b0ab3fbca",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 15th"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-15T02:08:11.403Z",
+    "createdAt": "2023-12-15T02:08:11.403Z",
+    "updatedAt": "2023-12-15T02:08:11.403Z",
+    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c"
+  },
+  {
     "id": "bf5716d8-6346-4e2e-be8a-9868367df806",
     "type": "INBOX",
     "element": [
@@ -337,11 +359,12 @@
       "328b092f-011d-4e05-9a5c-d0cf41a35a3f",
       "0a53a2d2-dded-46ff-90e2-0326727cc40d",
       "1e6f0074-1ef8-453a-887f-d8c1451e3bce",
-      "4736bba3-15f2-41b3-9ea6-6783a9c16dee"
+      "4736bba3-15f2-41b3-9ea6-6783a9c16dee",
+      "b74dca99-6c90-4da3-a955-3c8b0ab3fbca"
     ],
     "openedAt": "2023-12-08T03:27:32.151Z",
     "createdAt": "2023-12-13T07:47:15.458Z",
-    "updatedAt": "2023-12-14T18:23:14.538Z",
+    "updatedAt": "2023-12-15T02:08:11.403Z",
     "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c",
     "parentId": null,
     "databaseId": null
