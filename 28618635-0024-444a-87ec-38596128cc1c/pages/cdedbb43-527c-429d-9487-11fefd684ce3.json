@@ -1,13 +1,13 @@
 [
   {
-    "id": "8fd973eb-d67d-430e-8d62-fbd2467af062",
-    "type": "FAVORITE",
+    "id": "cdedbb43-527c-429d-9487-11fefd684ce3",
+    "type": "DAILY",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": ""
+            "text": "Saturday, Dec 16th"
           }
         ]
       }
@@ -16,9 +16,9 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-05T01:56:51.645Z",
-    "createdAt": "2023-12-16T05:21:30.681Z",
-    "updatedAt": "2023-12-16T05:21:30.681Z",
+    "openedAt": "2023-12-13T07:06:49.987Z",
+    "createdAt": "2023-12-16T05:21:31.331Z",
+    "updatedAt": "2023-12-16T05:21:31.331Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": null,
     "databaseId": null
