@@ -14,14 +14,18 @@
     ],
     "props": {
       "name": "backend",
-      "color": "pink500"
+      "color": "pink500",
+      "viewIds": [
+        "58e53729-dff5-4daf-89a8-f1a3ba89b187",
+        "9ee63922-a6dc-41c7-86f5-19a56e5ed419"
+      ]
     },
     "collapsed": false,
     "folded": true,
     "children": [],
     "openedAt": "2023-12-05T03:27:51.568Z",
     "createdAt": "2023-12-18T01:36:01.808Z",
-    "updatedAt": "2023-12-18T01:36:01.808Z",
+    "updatedAt": "2023-12-18T01:44:30.442Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "be4dab7d-1d69-49d8-bae6-507e5901ce24",
     "databaseId": null
@@ -127,7 +131,22 @@
     ],
     "props": {
       "name": "List",
-      "viewType": "List"
+      "viewType": "List",
+      "filters": [],
+      "groups": [],
+      "sorts": [],
+      "viewColumns": [
+        {
+          "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
+          "width": 160,
+          "visible": true
+        },
+        {
+          "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
+          "width": 160,
+          "visible": true
+        }
+      ]
     },
     "collapsed": false,
     "folded": true,
@@ -137,7 +156,7 @@
     ],
     "openedAt": "2023-12-05T03:27:51.596Z",
     "createdAt": "2023-12-18T01:36:01.829Z",
-    "updatedAt": "2023-12-18T01:36:01.829Z",
+    "updatedAt": "2023-12-18T01:44:30.452Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
     "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
@@ -250,7 +269,22 @@
     ],
     "props": {
       "name": "Table",
-      "viewType": "Table"
+      "viewType": "Table",
+      "filters": [],
+      "groups": [],
+      "sorts": [],
+      "viewColumns": [
+        {
+          "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
+          "width": 160,
+          "visible": true
+        },
+        {
+          "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
+          "width": 160,
+          "visible": true
+        }
+      ]
     },
     "collapsed": false,
     "folded": true,
@@ -260,7 +294,7 @@
     ],
     "openedAt": "2023-12-05T03:27:51.591Z",
     "createdAt": "2023-12-18T01:36:01.837Z",
-    "updatedAt": "2023-12-18T01:36:01.837Z",
+    "updatedAt": "2023-12-18T01:44:30.459Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
     "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
