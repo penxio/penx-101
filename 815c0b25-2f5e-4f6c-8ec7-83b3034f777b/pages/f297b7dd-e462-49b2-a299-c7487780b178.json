@@ -27,7 +27,7 @@
     ],
     "openedAt": "2023-12-18T12:49:58.217Z",
     "createdAt": "2023-12-18T12:49:58.218Z",
-    "updatedAt": "2023-12-18T12:50:31.854Z",
+    "updatedAt": "2023-12-18T12:52:50.574Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
   },
@@ -40,6 +40,36 @@
         "children": [
           {
             "text": "Next.js "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#backend"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "backend",
+            "databaseId": "d852944b-d3ae-497a-ae87-f5a26b2519c1"
+          },
+          {
+            "text": " "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#frontend"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "frontend",
+            "databaseId": "f97153bf-6106-4800-9a7e-d5acd592159e"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -50,7 +80,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.691Z",
     "createdAt": "2023-12-18T12:50:11.691Z",
-    "updatedAt": "2023-12-18T12:50:31.859Z",
+    "updatedAt": "2023-12-18T12:52:50.579Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
@@ -73,7 +103,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.695Z",
     "createdAt": "2023-12-18T12:50:11.695Z",
-    "updatedAt": "2023-12-18T12:50:31.864Z",
+    "updatedAt": "2023-12-18T12:52:50.590Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
@@ -85,7 +115,22 @@
         "type": "p",
         "children": [
           {
-            "text": "tRPC"
+            "text": "tRPC "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#b"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "backend",
+            "databaseId": "d852944b-d3ae-497a-ae87-f5a26b2519c1"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -96,7 +141,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.699Z",
     "createdAt": "2023-12-18T12:50:11.699Z",
-    "updatedAt": "2023-12-18T12:50:31.868Z",
+    "updatedAt": "2023-12-18T12:52:50.596Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
@@ -108,7 +153,22 @@
         "type": "p",
         "children": [
           {
-            "text": "Prisma"
+            "text": "Prisma "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#b"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "backend",
+            "databaseId": "d852944b-d3ae-497a-ae87-f5a26b2519c1"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -119,7 +179,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.704Z",
     "createdAt": "2023-12-18T12:50:11.704Z",
-    "updatedAt": "2023-12-18T12:50:31.874Z",
+    "updatedAt": "2023-12-18T12:52:50.604Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
@@ -131,7 +191,7 @@
         "type": "p",
         "children": [
           {
-            "text": "NextAuth.js"
+            "text": "NextAuth.js "
           }
         ]
       }
@@ -142,7 +202,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.709Z",
     "createdAt": "2023-12-18T12:50:11.709Z",
-    "updatedAt": "2023-12-18T12:50:31.877Z",
+    "updatedAt": "2023-12-18T12:52:50.612Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
@@ -154,7 +214,22 @@
         "type": "p",
         "children": [
           {
-            "text": "Slate.js"
+            "text": "Slate.js "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#f"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "frontend",
+            "databaseId": "f97153bf-6106-4800-9a7e-d5acd592159e"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -165,7 +240,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.714Z",
     "createdAt": "2023-12-18T12:50:11.714Z",
-    "updatedAt": "2023-12-18T12:50:31.882Z",
+    "updatedAt": "2023-12-18T12:52:50.616Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
@@ -177,7 +252,22 @@
         "type": "p",
         "children": [
           {
-            "text": "IndexedDB"
+            "text": "IndexedDB "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#f"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "frontend",
+            "databaseId": "f97153bf-6106-4800-9a7e-d5acd592159e"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -188,7 +278,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.719Z",
     "createdAt": "2023-12-18T12:50:11.719Z",
-    "updatedAt": "2023-12-18T12:50:31.886Z",
+    "updatedAt": "2023-12-18T12:52:50.624Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
@@ -200,7 +290,22 @@
         "type": "p",
         "children": [
           {
-            "text": "PWA"
+            "text": "PWA "
+          },
+          {
+            "type": "tag",
+            "children": [
+              {
+                "text": "#f"
+              }
+            ],
+            "trigger": "#",
+            "isOpen": false,
+            "name": "frontend",
+            "databaseId": "f97153bf-6106-4800-9a7e-d5acd592159e"
+          },
+          {
+            "text": ""
           }
         ]
       }
@@ -211,7 +316,7 @@
     "children": [],
     "openedAt": "2023-12-18T12:50:11.724Z",
     "createdAt": "2023-12-18T12:50:11.724Z",
-    "updatedAt": "2023-12-18T12:50:31.891Z",
+    "updatedAt": "2023-12-18T12:52:50.632Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   }
