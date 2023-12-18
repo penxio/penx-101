@@ -1,169 +1,6 @@
 [
   {
-    "id": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "type": "DATABASE",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "backend"
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "backend",
-      "color": "pink500",
-      "viewIds": [
-        "9ee63922-a6dc-41c7-86f5-19a56e5ed419",
-        "ebb109b8-5814-497a-b67a-2d1075882f9d"
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:51.568Z",
-    "createdAt": "2023-12-18T12:32:08.176Z",
-    "updatedAt": "2023-12-18T12:32:08.176Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "be4dab7d-1d69-49d8-bae6-507e5901ce24",
-    "databaseId": null
-  },
-  {
-    "id": "021ac595-48f3-4b7d-83e2-27cb04d9edd8",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:44:56.524Z",
-    "createdAt": "2023-12-18T12:32:07.609Z",
-    "updatedAt": "2023-12-18T12:32:07.609Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "02f5dcd6-23fb-4329-aff0-6c356c63dc82",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:10:27.426Z",
-    "createdAt": "2023-12-18T12:32:07.641Z",
-    "updatedAt": "2023-12-18T12:32:36.685Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "03955b10-752d-4002-9142-634b0d9dab7c",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "66a49505-f072-44a8-abb0-8fc2d7854efe",
-      "data": "",
-      "rowId": "aa2aa021-a167-479e-bc4e-0f50544f2db1",
-      "columnId": "edb399ce-48ab-4571-85a6-c0abd91e5321"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:36.427Z",
-    "createdAt": "2023-12-18T12:32:07.633Z",
-    "updatedAt": "2023-12-18T12:32:07.633Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "07103feb-9f5f-47bb-92ed-7e5e3ef91e97",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Tasks"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T01:57:54.878Z",
-    "createdAt": "2023-12-18T12:32:07.629Z",
-    "updatedAt": "2023-12-18T12:32:36.597Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "146a81be-ed14-49e4-b722-492a8a132b27",
-    "databaseId": null
-  },
-  {
-    "id": "0714936f-ea30-4387-acd2-384d2b0b0648",
-    "type": "COLUMN",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Note",
-      "width": 180,
-      "config": {},
-      "fieldType": "Text",
-      "isPrimary": true,
-      "description": ""
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:51.577Z",
-    "createdAt": "2023-12-18T12:32:07.729Z",
-    "updatedAt": "2023-12-18T12:32:07.729Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "0b89f17d-3079-433b-903c-26a2d4891a30",
+    "id": "010397c5-3e19-4274-bbcf-373597ce7560",
     "type": "COMMON",
     "element": [
       {
@@ -173,222 +10,8 @@
             "text": ""
           },
           {
-            "url": "https://www.youtube.com/watch?v=KrPsyr8Ig6M",
             "type": "a",
-            "children": [
-              {
-                "text": "https://www.youtube.com/watch?v=KrPsyr8Ig6M"
-              }
-            ]
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:00:03.909Z",
-    "createdAt": "2023-12-18T12:32:08.354Z",
-    "updatedAt": "2023-12-18T12:32:36.513Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7fc97eb4-ab9e-4308-bca1-f156caf5f1d5",
-    "databaseId": null
-  },
-  {
-    "id": "13659065-126e-4789-8a9e-00fa2dc242cd",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Prisma "
-          },
-          {
-            "name": "backend",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#"
-              }
-            ],
-            "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T02:38:40.853Z",
-    "createdAt": "2023-12-18T12:32:07.721Z",
-    "updatedAt": "2023-12-18T12:32:36.651Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "146a81be-ed14-49e4-b722-492a8a132b27",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "h2",
-        "children": [
-          {
-            "text": "What PenX can do?"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "cfe513fa-4c77-45d8-b7bd-bf21eb986177",
-      "07103feb-9f5f-47bb-92ed-7e5e3ef91e97",
-      "ff729c67-d4af-4457-a647-cd9719b395f6",
-      "325df122-f303-4952-b1e6-9de7fdf4c66c",
-      "d1d8110a-f334-48cd-b858-35d98f932465",
-      "b63e5715-48bc-4639-9446-0eceee0aa71d"
-    ],
-    "openedAt": "2023-12-05T01:57:54.868Z",
-    "createdAt": "2023-12-18T12:32:07.613Z",
-    "updatedAt": "2023-12-18T12:32:36.588Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "databaseId": null
-  },
-  {
-    "id": "1563a2eb-0366-4f11-ac16-192e0bb3cb90",
-    "type": "TRASH",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Trash"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T01:56:51.638Z",
-    "createdAt": "2023-12-18T12:32:07.560Z",
-    "updatedAt": "2023-12-18T12:32:07.560Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "1ce1640c-3990-4817-923c-d25c1f829d75",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "d8fdda73-c8c2-4151-ae9a-6360f7f1af30",
-      "columnId": "1f5a8fa9-4361-4dad-9843-097d7902a8d3"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:43.077Z",
-    "createdAt": "2023-12-18T12:32:07.657Z",
-    "updatedAt": "2023-12-18T12:32:07.657Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "1d6f4dbe-1767-41c5-a424-b33c0e98fbdc",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:08.336Z",
-    "createdAt": "2023-12-18T12:32:07.758Z",
-    "updatedAt": "2023-12-18T12:32:07.758Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "1f5a8fa9-4361-4dad-9843-097d7902a8d3",
-    "type": "COLUMN",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Description",
-      "width": 160,
-      "config": {},
-      "fieldType": "Text",
-      "isPrimary": false,
-      "description": ""
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:15:07.032Z",
-    "createdAt": "2023-12-18T12:32:07.678Z",
-    "updatedAt": "2023-12-18T12:32:07.678Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "223ad1f6-fbe2-4191-b5c6-731ba8d1ce21",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          },
-          {
             "url": "https://github.com/penxio/penx",
-            "type": "a",
             "children": [
               {
                 "text": "https://github.com/penxio/penx"
@@ -405,22 +28,21 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-12T02:58:43.338Z",
-    "createdAt": "2023-12-18T12:32:08.243Z",
-    "updatedAt": "2023-12-18T12:32:36.559Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "a1d1d7b3-822e-443d-997c-ecceef701d2a",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:49:10.300Z",
+    "createdAt": "2023-12-18T12:49:10.300Z",
+    "updatedAt": "2023-12-18T12:50:31.796Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "28603e38-f220-4201-9b6c-1201ef236449"
   },
   {
-    "id": "24116749-9280-45ec-8298-db0883b6c25a",
+    "id": "06869c22-a0cb-4935-8639-bc08ca82fefa",
     "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": "Trust our code, not our words"
+            "text": "IndexedDB"
           }
         ]
       }
@@ -429,201 +51,21 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-12T02:45:36.920Z",
-    "createdAt": "2023-12-18T12:32:07.903Z",
-    "updatedAt": "2023-12-18T12:32:36.538Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "a1d1d7b3-822e-443d-997c-ecceef701d2a",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:50:11.719Z",
+    "createdAt": "2023-12-18T12:50:11.719Z",
+    "updatedAt": "2023-12-18T12:50:31.886Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
   {
-    "id": "25fc367d-691d-4389-88bf-f6c8b7784e10",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "13659065-126e-4789-8a9e-00fa2dc242cd",
-      "data": "",
-      "rowId": "1d6f4dbe-1767-41c5-a424-b33c0e98fbdc",
-      "options": [],
-      "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:08.342Z",
-    "createdAt": "2023-12-18T12:32:07.761Z",
-    "updatedAt": "2023-12-18T12:32:07.761Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "2775fe9f-4843-4370-991c-684a60e46021",
-    "type": "VIEW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "table",
-      "sorts": [],
-      "groups": [],
-      "filters": [],
-      "viewType": "TABLE",
-      "viewColumns": [
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "edb399ce-48ab-4571-85a6-c0abd91e5321"
-        },
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "1f5a8fa9-4361-4dad-9843-097d7902a8d3"
-        }
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "1f5a8fa9-4361-4dad-9843-097d7902a8d3",
-      "edb399ce-48ab-4571-85a6-c0abd91e5321"
-    ],
-    "openedAt": "2023-12-18T01:55:40.712Z",
-    "createdAt": "2023-12-18T12:32:07.662Z",
-    "updatedAt": "2023-12-18T12:32:07.662Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "type": "DATABASE",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "feature"
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "feature",
-      "color": "emerald500",
-      "viewIds": [
-        "2775fe9f-4843-4370-991c-684a60e46021"
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:15:07.019Z",
-    "createdAt": "2023-12-18T12:32:08.187Z",
-    "updatedAt": "2023-12-18T12:32:08.187Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "be4dab7d-1d69-49d8-bae6-507e5901ce24",
-    "databaseId": null
-  },
-  {
-    "id": "2a104e46-f481-404f-9400-f349ddd7377a",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:02:05.050Z",
-    "createdAt": "2023-12-18T12:32:07.998Z",
-    "updatedAt": "2023-12-18T12:32:07.998Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "2e068e3e-d84d-42e9-880e-7b278cf47d53",
+    "id": "0dfe1fa9-b547-4ddc-be4e-9bf536cfe0ce",
     "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:10:23.719Z",
-    "createdAt": "2023-12-18T12:32:07.646Z",
-    "updatedAt": "2023-12-18T12:32:36.460Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "31da9ed9-4be0-4865-a775-bb21e06bdaf2",
-    "databaseId": null
-  },
-  {
-    "id": "3087e084-27e6-4e93-8652-64c5fe3d04ad",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:05:07.293Z",
-    "createdAt": "2023-12-18T12:32:08.009Z",
-    "updatedAt": "2023-12-18T12:32:08.009Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "31da9ed9-4be0-4865-a775-bb21e06bdaf2",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "h2",
-        "children": [
-          {
-            "bold": true,
-            "text": "What is PenX？"
+            "text": "Local-first software - Peter Van Hardenberg"
           }
         ]
       }
@@ -632,26 +74,23 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "a3270d7b-54ef-4789-a9bd-17943beae974",
-      "360818e8-c6ab-4525-93fe-92ebb6e8d3b8",
-      "2e068e3e-d84d-42e9-880e-7b278cf47d53"
+      "a5cfc263-3193-48da-bce0-afee040fb99c"
     ],
-    "openedAt": "2023-12-05T01:57:54.766Z",
-    "createdAt": "2023-12-18T12:32:08.139Z",
-    "updatedAt": "2023-12-18T12:32:36.445Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:47:56.005Z",
+    "createdAt": "2023-12-18T12:47:56.005Z",
+    "updatedAt": "2023-12-18T12:50:31.756Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "20c5d8f8-3345-48d7-9b6d-a4b6ce72b715"
   },
   {
-    "id": "325df122-f303-4952-b1e6-9de7fdf4c66c",
+    "id": "0fb9b6e0-ae0a-4302-a761-a143ae51debc",
     "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": "Password "
+            "text": "Next.js "
           }
         ]
       }
@@ -660,53 +99,21 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-12T03:09:38.793Z",
-    "createdAt": "2023-12-18T12:32:07.617Z",
-    "updatedAt": "2023-12-18T12:32:36.608Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "146a81be-ed14-49e4-b722-492a8a132b27",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:50:11.691Z",
+    "createdAt": "2023-12-18T12:50:11.691Z",
+    "updatedAt": "2023-12-18T12:50:31.859Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
   {
-    "id": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef",
-    "type": "COLUMN",
+    "id": "10b3fc25-fec2-4c28-87ff-30909c4c59c5",
+    "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Description",
-      "width": 160,
-      "config": {},
-      "fieldType": "Text",
-      "isPrimary": false,
-      "description": ""
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:59.309Z",
-    "createdAt": "2023-12-18T12:32:07.737Z",
-    "updatedAt": "2023-12-18T12:32:07.737Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "3496e41d-8603-4d3b-a42a-0de4c0c9f9fc",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
+            "text": "meaning it can work without a connection to the internet. Users' data stays with them even when they are not connected. It gives better reliability and speed as there is no latency to the server."
           }
         ]
       }
@@ -715,29 +122,21 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-13T07:06:41.966Z",
-    "createdAt": "2023-12-18T12:32:08.017Z",
-    "updatedAt": "2023-12-18T12:32:08.017Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
+    "openedAt": "2023-12-18T12:47:19.103Z",
+    "createdAt": "2023-12-18T12:47:19.103Z",
+    "updatedAt": "2023-12-18T12:50:31.743Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "20c5d8f8-3345-48d7-9b6d-a4b6ce72b715"
   },
   {
-    "id": "360818e8-c6ab-4525-93fe-92ebb6e8d3b8",
+    "id": "190f9ae7-77b1-4d87-ad68-945fbb707ec0",
     "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": "More than a note-taking app, It could be your personal "
-          },
-          {
-            "bold": true,
-            "text": "database"
-          },
-          {
-            "text": " with easy input and output."
+            "text": "Prisma"
           }
         ]
       }
@@ -746,22 +145,21 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-12T02:39:21.517Z",
-    "createdAt": "2023-12-18T12:32:08.166Z",
-    "updatedAt": "2023-12-18T12:32:36.454Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "31da9ed9-4be0-4865-a775-bb21e06bdaf2",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:50:11.704Z",
+    "createdAt": "2023-12-18T12:50:11.704Z",
+    "updatedAt": "2023-12-18T12:50:31.874Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
   {
-    "id": "3859d4b2-c081-4cc0-b6b6-b0968e8e2621",
+    "id": "20c5d8f8-3345-48d7-9b6d-a4b6ce72b715",
     "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": "More Info:"
+            "text": "Local-First"
           }
         ]
       }
@@ -770,285 +168,19 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "bed6112f-21fb-45e2-b5a3-743b4340828a"
+      "886331f8-4944-4417-a369-a7b248a5b880",
+      "10b3fc25-fec2-4c28-87ff-30909c4c59c5",
+      "d13b9089-e0ea-4e1a-982f-84399208cf8f",
+      "0dfe1fa9-b547-4ddc-be4e-9bf536cfe0ce"
     ],
-    "openedAt": "2023-12-12T02:59:41.216Z",
-    "createdAt": "2023-12-18T12:32:08.269Z",
-    "updatedAt": "2023-12-18T12:32:36.498Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:47:00.170Z",
+    "createdAt": "2023-12-18T12:47:00.170Z",
+    "updatedAt": "2023-12-18T12:50:31.735Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a576a20d-45db-4801-ada6-9d53adaf94e8"
   },
   {
-    "id": "39ee4d08-a8b8-4ea0-9419-0ced3be0581f",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:14.878Z",
-    "createdAt": "2023-12-18T12:32:07.770Z",
-    "updatedAt": "2023-12-18T12:32:07.770Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "3a8b38b7-d512-402b-b8a0-1464c0b7141a",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:44:37.512Z",
-    "createdAt": "2023-12-18T12:32:07.681Z",
-    "updatedAt": "2023-12-18T12:32:07.681Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "3cc0e9ca-f4b9-44c8-82b1-c6fca7f49fe0",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:36:04.733Z",
-    "createdAt": "2023-12-18T12:32:08.025Z",
-    "updatedAt": "2023-12-18T12:32:08.025Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "452b0d38-6aee-4a4c-b136-53f7486ed11e",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:36:08.630Z",
-    "createdAt": "2023-12-18T12:32:07.689Z",
-    "updatedAt": "2023-12-18T12:32:07.689Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "45a3ef25-1e7e-4e6a-addc-216334f25b53",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "h2",
-        "children": [
-          {
-            "text": "How to setup sync?"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T01:57:54.864Z",
-    "createdAt": "2023-12-18T12:32:07.637Z",
-    "updatedAt": "2023-12-18T12:32:36.583Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "databaseId": null
-  },
-  {
-    "id": "498cd722-18db-44bc-a7af-83cc5db50c9a",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
-      "data": "",
-      "rowId": "616d4819-f5b0-402d-bf82-5cd33a17eff3",
-      "columnId": "edb399ce-48ab-4571-85a6-c0abd91e5321"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:56:12.318Z",
-    "createdAt": "2023-12-18T12:32:07.799Z",
-    "updatedAt": "2023-12-18T12:32:07.799Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "49b1ffa5-138c-4425-832d-86cb87fb4439",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:52:12.716Z",
-    "createdAt": "2023-12-18T12:32:07.807Z",
-    "updatedAt": "2023-12-18T12:32:07.807Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "54c534d9-49ac-4def-9de6-3160f8a66fa7",
-    "type": "VIEW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "List",
-      "sorts": [],
-      "groups": [],
-      "filters": [],
-      "viewType": "List",
-      "viewColumns": [
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "dbfdb419-778e-440b-82a8-c96cf3517c68"
-        },
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef"
-        }
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "dbfdb419-778e-440b-82a8-c96cf3517c68",
-      "32b3132d-59c5-4c68-8f5a-dc196f3e2aef"
-    ],
-    "openedAt": "2023-12-05T03:27:59.319Z",
-    "createdAt": "2023-12-18T12:32:08.196Z",
-    "updatedAt": "2023-12-18T12:32:08.196Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "59857e2b-2735-43df-bd1d-31490bce7a20",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:53:11.772Z",
-    "createdAt": "2023-12-18T12:32:07.831Z",
-    "updatedAt": "2023-12-18T12:32:07.831Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "59e456a4-f99e-48a8-9e57-788b1dc7c42e",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Meta Tags ",
-            "bold": true
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "8c6ff479-44e3-476b-9d9a-bb3ecbeb4559"
-    ],
-    "openedAt": "2023-12-18T12:32:20.206Z",
-    "createdAt": "2023-12-18T12:32:20.206Z",
-    "updatedAt": "2023-12-18T12:32:36.470Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe"
-  },
-  {
-    "id": "5cfb49d3-fa40-4055-a03b-51b73e7242f2",
+    "id": "20db2bf7-4e1d-4f80-ba11-7afbecb8b883",
     "type": "DAILY",
     "element": [
       {
@@ -1066,249 +198,23 @@
     "collapsed": true,
     "folded": true,
     "children": [
-      "890078be-16d1-41b9-9eb4-042da2126231"
+      "3b184619-50bf-4fb7-a67e-3949c4fa08d5"
     ],
-    "openedAt": "2023-12-18T01:53:13.115Z",
-    "createdAt": "2023-12-18T12:32:07.847Z",
-    "updatedAt": "2023-12-18T12:32:07.847Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7fa05825-9154-4502-a46b-d9a3ff9b8e40",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:45:30.490Z",
+    "createdAt": "2023-12-18T12:45:30.494Z",
+    "updatedAt": "2023-12-18T12:45:30.494Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "6e250ad6-4de0-4075-a8cd-266f552fd2f4"
   },
   {
-    "id": "5f165195-d3d2-4bcf-973a-d97c246ee38f",
+    "id": "28603e38-f220-4201-9b6c-1201ef236449",
     "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": ""
-          },
-          {
-            "url": "https://www.youtube.com/watch?v=TEttd0Qkqnc",
-            "type": "a",
-            "children": [
-              {
-                "text": "https://www.youtube.com/watch?v=TEttd0Qkqnc"
-              }
-            ]
-          },
-          {
-            "text": " "
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:58:05.897Z",
-    "createdAt": "2023-12-18T12:32:07.815Z",
-    "updatedAt": "2023-12-18T12:32:36.549Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9bb79b13-983e-4595-af2c-cbc6f63de4b7",
-    "databaseId": null
-  },
-  {
-    "id": "5f48075e-3831-4fae-aa48-c9510b715915",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "PWA "
-          },
-          {
-            "name": "frontend",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#"
-              }
-            ],
-            "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:32:27.919Z",
-    "createdAt": "2023-12-18T12:32:08.122Z",
-    "updatedAt": "2023-12-18T12:32:36.677Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "5fd9228c-8dbc-4d01-b8e8-4e173189bc08",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "meaning it can work without a connection to the internet. Users' data stays with them even when they are not connected. It gives better reliability and speed as there is no latency to the server."
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:00:36.339Z",
-    "createdAt": "2023-12-18T12:32:08.310Z",
-    "updatedAt": "2023-12-18T12:32:36.493Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
-    "databaseId": null
-  },
-  {
-    "id": "606c77a0-689f-442e-a8d1-6fd703a45680",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "da4fa9af-68df-46fd-9115-42a12ed8a5dd",
-      "options": [],
-      "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:52.244Z",
-    "createdAt": "2023-12-18T12:32:07.685Z",
-    "updatedAt": "2023-12-18T12:32:07.685Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "616d4819-f5b0-402d-bf82-5cd33a17eff3",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:56:12.306Z",
-    "createdAt": "2023-12-18T12:32:07.855Z",
-    "updatedAt": "2023-12-18T12:32:07.855Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "61aa23e3-5cee-4d39-b0de-24de679eba86",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "dd156fae-a068-4a5f-b6c6-e74b20eb58d3",
-      "data": "",
-      "rowId": "c6613e5e-4133-475e-90a0-e052e4fda4f3",
-      "options": [],
-      "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:05.434Z",
-    "createdAt": "2023-12-18T12:32:07.741Z",
-    "updatedAt": "2023-12-18T12:32:07.741Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "66384d33-3310-4ed3-ae3c-4c4dc4ee93fe",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:51:47.875Z",
-    "createdAt": "2023-12-18T12:32:07.863Z",
-    "updatedAt": "2023-12-18T12:32:07.863Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "66a49505-f072-44a8-abb0-8fc2d7854efe",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "bold": true,
-            "text": "Privacy-First "
-          },
-          {
-            "name": "feature",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#f"
-              }
-            ],
-            "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-          },
-          {
-            "text": ""
+            "text": "Open Source"
           }
         ]
       }
@@ -1317,39 +223,26 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "9f227468-1c30-499f-876e-f7a931e31747"
+      "a1307df3-1333-4036-9bef-d20ddb80ab5f",
+      "bfebf3cf-87cc-4185-8eb2-bc76ac87afcc",
+      "37c72261-f9e2-4465-9c0b-ed2142be2f45",
+      "010397c5-3e19-4274-bbcf-373597ce7560"
     ],
-    "openedAt": "2023-12-12T02:44:42.362Z",
-    "createdAt": "2023-12-18T12:32:08.205Z",
-    "updatedAt": "2023-12-18T12:32:36.517Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:48:26.271Z",
+    "createdAt": "2023-12-18T12:48:26.271Z",
+    "updatedAt": "2023-12-18T12:50:31.775Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a576a20d-45db-4801-ada6-9d53adaf94e8"
   },
   {
-    "id": "6b3d1441-6061-4340-afe7-96ad9b771252",
-    "type": "COMMON",
+    "id": "2e913758-2a3d-47e0-a0c1-573e816b4439",
+    "type": "TRASH",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": "Slate.js "
-          },
-          {
-            "name": "frontend",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#"
-              }
-            ],
-            "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-          },
-          {
-            "text": ""
+            "text": "Trash"
           }
         ]
       }
@@ -1358,936 +251,13 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-05T02:38:43.203Z",
-    "createdAt": "2023-12-18T12:32:07.791Z",
-    "updatedAt": "2023-12-18T12:32:36.664Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:45:30.428Z",
+    "createdAt": "2023-12-18T12:45:30.428Z",
+    "updatedAt": "2023-12-18T12:45:30.428Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
-    "id": "6f350cb1-c10b-40e5-b1d0-bba9451ab47a",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "1d6f4dbe-1767-41c5-a424-b33c0e98fbdc",
-      "options": [],
-      "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:08.342Z",
-    "createdAt": "2023-12-18T12:32:07.766Z",
-    "updatedAt": "2023-12-18T12:32:07.766Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "7206c77a-e6fa-4619-8e55-80b098808bd9",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Tuesday, Dec 5th"
-          }
-        ]
-      }
-    ],
-    "props": {
-      "date": "2023-12-05"
-    },
-    "collapsed": true,
-    "folded": true,
-    "children": [
-      "c4c30c0a-c44a-43ec-941f-67d76562efd1"
-    ],
-    "openedAt": "2023-12-05T01:56:51.662Z",
-    "createdAt": "2023-12-18T12:32:07.561Z",
-    "updatedAt": "2023-12-18T12:32:07.561Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7fa05825-9154-4502-a46b-d9a3ff9b8e40",
-    "databaseId": null
-  },
-  {
-    "id": "7a054e9d-ea88-470f-ad64-b599517bd2ed",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:00:58.343Z",
-    "createdAt": "2023-12-18T12:32:08.371Z",
-    "updatedAt": "2023-12-18T12:32:36.578Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "bf9f3a7f-8693-462f-a7d3-9bf51901ecdf",
-    "databaseId": null
-  },
-  {
-    "id": "7a4f9bb0-137c-432f-9197-33f01283d69f",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:53:08.166Z",
-    "createdAt": "2023-12-18T12:32:07.870Z",
-    "updatedAt": "2023-12-18T12:32:07.870Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "7c567962-0a95-4732-987f-208f86ab207d",
-    "type": "DATABASE",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "frontend"
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "frontend",
-      "color": "violet500",
-      "viewIds": [
-        "54c534d9-49ac-4def-9de6-3160f8a66fa7",
-        "b25255a3-a6e8-4675-acd3-6a137f6a253a"
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:59.295Z",
-    "createdAt": "2023-12-18T12:32:08.216Z",
-    "updatedAt": "2023-12-18T12:32:08.216Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "be4dab7d-1d69-49d8-bae6-507e5901ce24",
-    "databaseId": null
-  },
-  {
-    "id": "7d4b34ce-dd56-4070-ab03-91e8550b64ab",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:50:30.069Z",
-    "createdAt": "2023-12-18T12:32:07.887Z",
-    "updatedAt": "2023-12-18T12:32:07.887Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "7eeca124-3965-4e6f-a2c3-24737b353cf7",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Today node"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T04:57:28.153Z",
-    "createdAt": "2023-12-18T12:32:07.879Z",
-    "updatedAt": "2023-12-18T12:32:07.879Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9af68a1a-f16a-48e9-9f6a-a452f04fe42c",
-    "databaseId": null
-  },
-  {
-    "id": "7fa05825-9154-4502-a46b-d9a3ff9b8e40",
-    "type": "DAILY_ROOT",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Daily Notes"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "7206c77a-e6fa-4619-8e55-80b098808bd9",
-      "9af68a1a-f16a-48e9-9f6a-a452f04fe42c",
-      "2a104e46-f481-404f-9400-f349ddd7377a",
-      "e571b1c6-05fc-4eb1-9bb6-239258ede32c",
-      "81a28251-f8df-46e8-af90-c6b2863ec09a",
-      "3087e084-27e6-4e93-8652-64c5fe3d04ad",
-      "dbe033fe-b3d1-4f7a-90e3-294df4989dc6",
-      "3496e41d-8603-4d3b-a42a-0de4c0c9f9fc",
-      "8a2bc302-dcbe-403a-9b24-295bc93ca0fd",
-      "cdedbb43-527c-429d-9487-11fefd684ce3",
-      "3cc0e9ca-f4b9-44c8-82b1-c6fca7f49fe0",
-      "84f41f27-881a-430b-ad16-75bc09de63e5",
-      "452b0d38-6aee-4a4c-b136-53f7486ed11e",
-      "b7b94864-a419-47ed-8b13-9e4520fe58fb",
-      "af3a5b5e-4dfb-4a30-a25f-638e02463ad9",
-      "3a8b38b7-d512-402b-b8a0-1464c0b7141a",
-      "021ac595-48f3-4b7d-83e2-27cb04d9edd8",
-      "7d4b34ce-dd56-4070-ab03-91e8550b64ab",
-      "ebd33e53-04c7-42ba-a8b0-2697aeae8959",
-      "66384d33-3310-4ed3-ae3c-4c4dc4ee93fe",
-      "49b1ffa5-138c-4425-832d-86cb87fb4439",
-      "861d6fcc-7cbb-4df4-9759-e3368267561a",
-      "7a4f9bb0-137c-432f-9197-33f01283d69f",
-      "59857e2b-2735-43df-bd1d-31490bce7a20",
-      "5cfb49d3-fa40-4055-a03b-51b73e7242f2"
-    ],
-    "openedAt": "2023-12-05T01:56:51.653Z",
-    "createdAt": "2023-12-18T12:32:08.225Z",
-    "updatedAt": "2023-12-18T12:32:08.225Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "7fc97eb4-ab9e-4308-bca1-f156caf5f1d5",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Local-first software - Peter Van Hardenberg"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "0b89f17d-3079-433b-903c-26a2d4891a30"
-    ],
-    "openedAt": "2023-12-12T02:59:58.258Z",
-    "createdAt": "2023-12-18T12:32:08.293Z",
-    "updatedAt": "2023-12-18T12:32:36.507Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
-    "databaseId": null
-  },
-  {
-    "id": "817a87d4-1987-42ee-a9ac-df174884f4c6",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Next.js "
-          },
-          {
-            "name": "backend",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#backend"
-              }
-            ],
-            "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-          },
-          {
-            "text": " "
-          },
-          {
-            "name": "frontend",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#"
-              }
-            ],
-            "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T02:32:50.684Z",
-    "createdAt": "2023-12-18T12:32:07.670Z",
-    "updatedAt": "2023-12-18T12:32:36.626Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "81a28251-f8df-46e8-af90-c6b2863ec09a",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:04:57.743Z",
-    "createdAt": "2023-12-18T12:32:08.033Z",
-    "updatedAt": "2023-12-18T12:32:08.033Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "84f41f27-881a-430b-ad16-75bc09de63e5",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T08:00:11.911Z",
-    "createdAt": "2023-12-18T12:32:08.041Z",
-    "updatedAt": "2023-12-18T12:32:08.041Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "861d6fcc-7cbb-4df4-9759-e3368267561a",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:53:00.850Z",
-    "createdAt": "2023-12-18T12:32:07.895Z",
-    "updatedAt": "2023-12-18T12:32:07.895Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "8659ff02-bbe0-4486-922e-7616105478d6",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "39ee4d08-a8b8-4ea0-9419-0ced3be0581f",
-      "options": [],
-      "columnId": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:14.885Z",
-    "createdAt": "2023-12-18T12:32:07.775Z",
-    "updatedAt": "2023-12-18T12:32:07.775Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "890078be-16d1-41b9-9eb4-042da2126231",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "today"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:53:13.115Z",
-    "createdAt": "2023-12-18T12:32:07.911Z",
-    "updatedAt": "2023-12-18T12:32:07.911Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "5cfb49d3-fa40-4055-a03b-51b73e7242f2",
-    "databaseId": null
-  },
-  {
-    "id": "8a284ad0-8b99-4020-b2fb-8da0a8285d01",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "aa2aa021-a167-479e-bc4e-0f50544f2db1",
-      "columnId": "1f5a8fa9-4361-4dad-9843-097d7902a8d3"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:36.427Z",
-    "createdAt": "2023-12-18T12:32:07.919Z",
-    "updatedAt": "2023-12-18T12:32:07.919Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "8a2bc302-dcbe-403a-9b24-295bc93ca0fd",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:06:44.746Z",
-    "createdAt": "2023-12-18T12:32:08.049Z",
-    "updatedAt": "2023-12-18T12:32:08.049Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "bold": true,
-            "text": "Local-First "
-          },
-          {
-            "name": "feature",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#f"
-              }
-            ],
-            "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "e251b81a-cd98-4554-86cf-9a8d48f82b47",
-      "5fd9228c-8dbc-4d01-b8e8-4e173189bc08",
-      "3859d4b2-c081-4cc0-b6b6-b0968e8e2621",
-      "7fc97eb4-ab9e-4308-bca1-f156caf5f1d5"
-    ],
-    "openedAt": "2023-12-12T02:40:36.547Z",
-    "createdAt": "2023-12-18T12:32:08.277Z",
-    "updatedAt": "2023-12-18T12:32:36.480Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
-    "databaseId": null
-  },
-  {
-    "id": "8c6ff479-44e3-476b-9d9a-bb3ecbeb4559",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "An elegant way to write structured note"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T12:32:26.837Z",
-    "createdAt": "2023-12-18T12:32:26.837Z",
-    "updatedAt": "2023-12-18T12:32:36.475Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "59e456a4-f99e-48a8-9e57-788b1dc7c42e"
-  },
-  {
-    "id": "8fd973eb-d67d-430e-8d62-fbd2467af062",
-    "type": "FAVORITE",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T01:56:51.645Z",
-    "createdAt": "2023-12-18T12:32:07.567Z",
-    "updatedAt": "2023-12-18T12:32:07.567Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "type": "ROOT",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "PenX 101"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "b0dfcdf8-ae62-4418-a3f6-336373136ccb",
-      "31da9ed9-4be0-4865-a775-bb21e06bdaf2",
-      "e17a6fec-1ee3-41ba-9600-af20b10777fe",
-      "45a3ef25-1e7e-4e6a-addc-216334f25b53",
-      "146a81be-ed14-49e4-b722-492a8a132b27",
-      "ce462011-612a-4c56-b7e2-66d4fec9f338"
-    ],
-    "openedAt": "2023-12-05T01:56:51.624Z",
-    "createdAt": "2023-12-18T12:32:08.285Z",
-    "updatedAt": "2023-12-18T12:32:36.417Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "9af68a1a-f16a-48e9-9f6a-a452f04fe42c",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Tuesday, Dec 12th"
-          }
-        ]
-      }
-    ],
-    "props": {
-      "date": "2023-12-12"
-    },
-    "collapsed": true,
-    "folded": true,
-    "children": [
-      "7eeca124-3965-4e6f-a2c3-24737b353cf7"
-    ],
-    "openedAt": "2023-12-12T04:57:28.154Z",
-    "createdAt": "2023-12-18T12:32:07.838Z",
-    "updatedAt": "2023-12-18T12:32:07.838Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7fa05825-9154-4502-a46b-d9a3ff9b8e40",
-    "databaseId": null
-  },
-  {
-    "id": "9bb79b13-983e-4595-af2c-cbc6f63de4b7",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "What Is Open Source Software?"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "5f165195-d3d2-4bcf-973a-d97c246ee38f"
-    ],
-    "openedAt": "2023-12-12T02:57:44.854Z",
-    "createdAt": "2023-12-18T12:32:08.234Z",
-    "updatedAt": "2023-12-18T12:32:36.543Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "a1d1d7b3-822e-443d-997c-ecceef701d2a",
-    "databaseId": null
-  },
-  {
-    "id": "9da7994d-8a15-4fe7-b002-61de09ca004c",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "GitHub-Based Version control Out-of-box"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:46:18.123Z",
-    "createdAt": "2023-12-18T12:32:07.725Z",
-    "updatedAt": "2023-12-18T12:32:36.572Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "bf9f3a7f-8693-462f-a7d3-9bf51901ecdf",
-    "databaseId": null
-  },
-  {
-    "id": "9ee63922-a6dc-41c7-86f5-19a56e5ed419",
-    "type": "VIEW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Table",
-      "sorts": [],
-      "groups": [],
-      "filters": [],
-      "viewType": "Table",
-      "viewColumns": [
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648"
-        },
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1"
-        }
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "0714936f-ea30-4387-acd2-384d2b0b0648",
-      "e552eac3-aa21-46e9-87b8-c071ee001ff1"
-    ],
-    "openedAt": "2023-12-05T03:27:51.591Z",
-    "createdAt": "2023-12-18T12:32:08.302Z",
-    "updatedAt": "2023-12-18T12:32:08.302Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "9f227468-1c30-499f-876e-f7a931e31747",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Use End-To-End Encryption to sync data"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:44:49.713Z",
-    "createdAt": "2023-12-18T12:32:08.148Z",
-    "updatedAt": "2023-12-18T12:32:36.526Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "66a49505-f072-44a8-abb0-8fc2d7854efe",
-    "databaseId": null
-  },
-  {
-    "id": "a1d1d7b3-822e-443d-997c-ecceef701d2a",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "bold": true,
-            "text": "Open Source "
-          },
-          {
-            "name": "feature",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#f"
-              }
-            ],
-            "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "24116749-9280-45ec-8298-db0883b6c25a",
-      "9bb79b13-983e-4595-af2c-cbc6f63de4b7",
-      "a9e48c8b-c18b-4dff-a7ba-4ad71196f19d",
-      "223ad1f6-fbe2-4191-b5c6-731ba8d1ce21"
-    ],
-    "openedAt": "2023-12-12T02:45:21.489Z",
-    "createdAt": "2023-12-18T12:32:08.332Z",
-    "updatedAt": "2023-12-18T12:32:36.531Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
-    "databaseId": null
-  },
-  {
-    "id": "a2013252-791c-405a-941b-5f0a06e57c1f",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "5f48075e-3831-4fae-aa48-c9510b715915",
-      "data": "",
-      "rowId": "e46e9901-76c6-492d-8bd7-c1bcb15e47a6",
-      "options": [],
-      "columnId": "dbfdb419-778e-440b-82a8-c96cf3517c68",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:32:33.314Z",
-    "createdAt": "2023-12-18T12:32:08.089Z",
-    "updatedAt": "2023-12-18T12:32:08.089Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "a3270d7b-54ef-4789-a9bd-17943beae974",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "A structured note-taking app for personal use."
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:32:59.490Z",
-    "createdAt": "2023-12-18T12:32:08.130Z",
-    "updatedAt": "2023-12-18T12:32:36.450Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "31da9ed9-4be0-4865-a775-bb21e06bdaf2",
-    "databaseId": null
-  },
-  {
-    "id": "a7044496-a776-4fcd-9335-1ceff0447bf3",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "TypeScript "
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T02:32:58.659Z",
-    "createdAt": "2023-12-18T12:32:07.673Z",
-    "updatedAt": "2023-12-18T12:32:36.639Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "a98122a8-6fa3-4430-a597-ced1d991fd7b",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "e46e9901-76c6-492d-8bd7-c1bcb15e47a6",
-      "options": [],
-      "columnId": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:32:33.314Z",
-    "createdAt": "2023-12-18T12:32:08.097Z",
-    "updatedAt": "2023-12-18T12:32:08.097Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "a9e48c8b-c18b-4dff-a7ba-4ad71196f19d",
+    "id": "37c72261-f9e2-4465-9c0b-ed2142be2f45",
     "type": "COMMON",
     "element": [
       {
@@ -2303,245 +273,67 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-12T02:58:36.086Z",
-    "createdAt": "2023-12-18T12:32:08.252Z",
-    "updatedAt": "2023-12-18T12:32:36.554Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "a1d1d7b3-822e-443d-997c-ecceef701d2a",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:48:58.473Z",
+    "createdAt": "2023-12-18T12:48:58.473Z",
+    "updatedAt": "2023-12-18T12:50:31.793Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "28603e38-f220-4201-9b6c-1201ef236449"
   },
   {
-    "id": "aa2aa021-a167-479e-bc4e-0f50544f2db1",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:36.419Z",
-    "createdAt": "2023-12-18T12:32:07.927Z",
-    "updatedAt": "2023-12-18T12:32:07.927Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "ad6e42ba-56d2-4ebe-a01c-169d92cf245d",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "bf9f3a7f-8693-462f-a7d3-9bf51901ecdf",
-      "data": "",
-      "rowId": "e3c9c721-748b-4eb8-9571-5a845cc5defc",
-      "columnId": "edb399ce-48ab-4571-85a6-c0abd91e5321"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:46.685Z",
-    "createdAt": "2023-12-18T12:32:07.934Z",
-    "updatedAt": "2023-12-18T12:32:07.934Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "ae3f29ac-8f9f-4bb6-9e0d-11e3a1fc6b48",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "a1d1d7b3-822e-443d-997c-ecceef701d2a",
-      "data": "",
-      "rowId": "d8fdda73-c8c2-4151-ae9a-6360f7f1af30",
-      "columnId": "edb399ce-48ab-4571-85a6-c0abd91e5321"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:43.076Z",
-    "createdAt": "2023-12-18T12:32:07.943Z",
-    "updatedAt": "2023-12-18T12:32:07.943Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "af3a5b5e-4dfb-4a30-a25f-638e02463ad9",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:44:24.613Z",
-    "createdAt": "2023-12-18T12:32:07.951Z",
-    "updatedAt": "2023-12-18T12:32:07.951Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "b0dfcdf8-ae62-4418-a3f6-336373136ccb",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "blockquote",
-        "children": [
-          {
-            "text": "PenX is in Beta now."
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T05:23:06.181Z",
-    "createdAt": "2023-12-18T12:32:08.379Z",
-    "updatedAt": "2023-12-18T12:32:36.440Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "databaseId": null
-  },
-  {
-    "id": "b25255a3-a6e8-4675-acd3-6a137f6a253a",
-    "type": "VIEW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Table",
-      "sorts": [],
-      "groups": [],
-      "filters": [],
-      "viewType": "Table",
-      "viewColumns": [
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "dbfdb419-778e-440b-82a8-c96cf3517c68"
-        },
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef"
-        }
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "dbfdb419-778e-440b-82a8-c96cf3517c68",
-      "32b3132d-59c5-4c68-8f5a-dc196f3e2aef"
-    ],
-    "openedAt": "2023-12-05T03:27:59.313Z",
-    "createdAt": "2023-12-18T12:32:08.337Z",
-    "updatedAt": "2023-12-18T12:32:08.337Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "b63e5715-48bc-4639-9446-0eceee0aa71d",
+    "id": "3b184619-50bf-4fb7-a67e-3949c4fa08d5",
     "type": "COMMON",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": "...."
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:09:47.737Z",
-    "createdAt": "2023-12-18T12:32:07.649Z",
-    "updatedAt": "2023-12-18T12:32:36.617Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "146a81be-ed14-49e4-b722-492a8a132b27",
-    "databaseId": null
-  },
-  {
-    "id": "b7b94864-a419-47ed-8b13-9e4520fe58fb",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:44:06.496Z",
-    "createdAt": "2023-12-18T12:32:07.959Z",
-    "updatedAt": "2023-12-18T12:32:07.959Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "be4dab7d-1d69-49d8-bae6-507e5901ce24",
-    "type": "DATABASE_ROOT",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
             "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:45:30.494Z",
+    "createdAt": "2023-12-18T12:45:30.494Z",
+    "updatedAt": "2023-12-18T12:45:30.499Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "20db2bf7-4e1d-4f80-ba11-7afbecb8b883"
+  },
+  {
+    "id": "3b762147-c4f6-4ed0-aa97-409cdcf10e21",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Slate.js"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:50:11.714Z",
+    "createdAt": "2023-12-18T12:50:11.714Z",
+    "updatedAt": "2023-12-18T12:50:31.882Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
+  },
+  {
+    "id": "4da58119-9bc3-4d03-ac0e-88a6b9865214",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "What is PenX？"
           }
         ]
       }
@@ -2550,19 +342,68 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-      "7c567962-0a95-4732-987f-208f86ab207d",
-      "297cc812-af8e-4753-8941-f3313a37e5eb"
+      "bcdcee54-df65-43b1-ada8-2df76e462eab",
+      "d843d4eb-1009-444b-9dbe-e631679ad99e"
     ],
-    "openedAt": "2023-12-05T01:56:51.649Z",
-    "createdAt": "2023-12-18T12:32:07.625Z",
-    "updatedAt": "2023-12-18T12:32:07.625Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
+    "openedAt": "2023-12-18T12:46:10.683Z",
+    "createdAt": "2023-12-18T12:46:10.683Z",
+    "updatedAt": "2023-12-18T12:50:31.709Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
   },
   {
-    "id": "bed6112f-21fb-45e2-b5a3-743b4340828a",
+    "id": "5aea9873-2255-4c5e-90ea-1a9ea2082a3f",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Version control"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "985d5977-dacc-4cab-9778-bb71b7d8819b"
+    ],
+    "openedAt": "2023-12-18T12:49:13.479Z",
+    "createdAt": "2023-12-18T12:49:13.479Z",
+    "updatedAt": "2023-12-18T12:50:31.800Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a576a20d-45db-4801-ada6-9d53adaf94e8"
+  },
+  {
+    "id": "6227b254-5fda-4323-99ea-3c28d28e3221",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Meta Tags",
+            "bold": true
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "c4f97c38-053c-4d78-ac1f-faaaa054c2a1"
+    ],
+    "openedAt": "2023-12-18T12:46:46.159Z",
+    "createdAt": "2023-12-18T12:46:46.159Z",
+    "updatedAt": "2023-12-18T12:50:31.727Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a576a20d-45db-4801-ada6-9d53adaf94e8"
+  },
+  {
+    "id": "66ab17a7-a1fa-45b9-91be-237fd6f30fa4",
     "type": "COMMON",
     "element": [
       {
@@ -2572,8 +413,8 @@
             "text": ""
           },
           {
-            "url": "https://www.inkandswitch.com/local-first/",
             "type": "a",
+            "url": "https://www.inkandswitch.com/local-first/",
             "children": [
               {
                 "text": "https://www.inkandswitch.com/local-first/"
@@ -2581,7 +422,7 @@
             ]
           },
           {
-            "text": " "
+            "text": ""
           }
         ]
       }
@@ -2590,38 +431,21 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-12T02:59:48.556Z",
-    "createdAt": "2023-12-18T12:32:08.261Z",
-    "updatedAt": "2023-12-18T12:32:36.503Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "3859d4b2-c081-4cc0-b6b6-b0968e8e2621",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:47:41.197Z",
+    "createdAt": "2023-12-18T12:47:41.197Z",
+    "updatedAt": "2023-12-18T12:50:31.751Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "d13b9089-e0ea-4e1a-982f-84399208cf8f"
   },
   {
-    "id": "bf9f3a7f-8693-462f-a7d3-9bf51901ecdf",
-    "type": "COMMON",
+    "id": "6e250ad6-4de0-4075-a8cd-266f552fd2f4",
+    "type": "DAILY_ROOT",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "bold": true,
-            "text": "Version control "
-          },
-          {
-            "name": "feature",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#fe"
-              }
-            ],
-            "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-          },
-          {
-            "text": ""
+            "text": "Daily Notes"
           }
         ]
       }
@@ -2630,907 +454,15 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "9da7994d-8a15-4fe7-b002-61de09ca004c",
-      "7a054e9d-ea88-470f-ad64-b599517bd2ed"
+      "20db2bf7-4e1d-4f80-ba11-7afbecb8b883"
     ],
-    "openedAt": "2023-12-12T02:46:14.831Z",
-    "createdAt": "2023-12-18T12:32:08.345Z",
-    "updatedAt": "2023-12-18T12:32:36.564Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:45:30.486Z",
+    "createdAt": "2023-12-18T12:45:30.486Z",
+    "updatedAt": "2023-12-18T12:45:30.504Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
-    "id": "c411efd3-d74b-4ad7-80f3-3e1b5486fe9c",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "NextAuth.js "
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T02:38:42.054Z",
-    "createdAt": "2023-12-18T12:32:07.786Z",
-    "updatedAt": "2023-12-18T12:32:36.659Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "c4c30c0a-c44a-43ec-941f-67d76562efd1",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T01:56:51.667Z",
-    "createdAt": "2023-12-18T12:32:07.598Z",
-    "updatedAt": "2023-12-18T12:32:07.598Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7206c77a-e6fa-4619-8e55-80b098808bd9",
-    "databaseId": null
-  },
-  {
-    "id": "c6613e5e-4133-475e-90a0-e052e4fda4f3",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:05.428Z",
-    "createdAt": "2023-12-18T12:32:07.745Z",
-    "updatedAt": "2023-12-18T12:32:07.745Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "c7baf45e-0e5d-4984-ab73-1c0b00b00444",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "6b3d1441-6061-4340-afe7-96ad9b771252",
-      "data": "",
-      "rowId": "39ee4d08-a8b8-4ea0-9419-0ced3be0581f",
-      "options": [],
-      "columnId": "dbfdb419-778e-440b-82a8-c96cf3517c68",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:14.885Z",
-    "createdAt": "2023-12-18T12:32:07.779Z",
-    "updatedAt": "2023-12-18T12:32:07.779Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "cc2479a6-3842-417c-b943-537b7fd5c918",
-    "type": "INBOX",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Inbox"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "cf43975a-adb4-4117-9b0e-d6fa0b2dd457"
-    ],
-    "openedAt": "2023-12-05T01:56:51.633Z",
-    "createdAt": "2023-12-18T12:32:07.601Z",
-    "updatedAt": "2023-12-18T12:32:07.601Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "cdedbb43-527c-429d-9487-11fefd684ce3",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:06:49.987Z",
-    "createdAt": "2023-12-18T12:32:08.057Z",
-    "updatedAt": "2023-12-18T12:32:08.057Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "h2",
-        "children": [
-          {
-            "text": "Primary tech stack"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "817a87d4-1987-42ee-a9ac-df174884f4c6",
-      "a7044496-a776-4fcd-9335-1ceff0447bf3",
-      "dd156fae-a068-4a5f-b6c6-e74b20eb58d3",
-      "13659065-126e-4789-8a9e-00fa2dc242cd",
-      "c411efd3-d74b-4ad7-80f3-3e1b5486fe9c",
-      "6b3d1441-6061-4340-afe7-96ad9b771252",
-      "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d",
-      "5f48075e-3831-4fae-aa48-c9510b715915",
-      "02f5dcd6-23fb-4329-aff0-6c356c63dc82"
-    ],
-    "openedAt": "2023-12-05T02:39:21.908Z",
-    "createdAt": "2023-12-18T12:32:08.157Z",
-    "updatedAt": "2023-12-18T12:32:36.622Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "databaseId": null
-  },
-  {
-    "id": "ce7eae66-58ca-4b95-81cc-711397c147d9",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "817a87d4-1987-42ee-a9ac-df174884f4c6",
-      "data": "",
-      "rowId": "f84ba53b-f0ab-49ab-85f9-7608ede5ede5",
-      "options": [],
-      "columnId": "dbfdb419-778e-440b-82a8-c96cf3517c68",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:59.968Z",
-    "createdAt": "2023-12-18T12:32:07.693Z",
-    "updatedAt": "2023-12-18T12:32:07.693Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "cf43975a-adb4-4117-9b0e-d6fa0b2dd457",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T01:56:51.624Z",
-    "createdAt": "2023-12-18T12:32:07.606Z",
-    "updatedAt": "2023-12-18T12:32:07.606Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "cfe513fa-4c77-45d8-b7bd-bf21eb986177",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Note-taking"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T01:57:54.873Z",
-    "createdAt": "2023-12-18T12:32:07.665Z",
-    "updatedAt": "2023-12-18T12:32:36.593Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "146a81be-ed14-49e4-b722-492a8a132b27",
-    "databaseId": null
-  },
-  {
-    "id": "d1d8110a-f334-48cd-b858-35d98f932465",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Documents"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:09:44.085Z",
-    "createdAt": "2023-12-18T12:32:07.654Z",
-    "updatedAt": "2023-12-18T12:32:36.612Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "146a81be-ed14-49e4-b722-492a8a132b27",
-    "databaseId": null
-  },
-  {
-    "id": "d8fdda73-c8c2-4151-ae9a-6360f7f1af30",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:43.069Z",
-    "createdAt": "2023-12-18T12:32:07.966Z",
-    "updatedAt": "2023-12-18T12:32:07.966Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "da4fa9af-68df-46fd-9115-42a12ed8a5dd",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:52.238Z",
-    "createdAt": "2023-12-18T12:32:07.697Z",
-    "updatedAt": "2023-12-18T12:32:07.697Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "dbd154f2-3567-4b1e-adfe-7af781dc0c59",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "c6613e5e-4133-475e-90a0-e052e4fda4f3",
-      "options": [],
-      "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:29:05.434Z",
-    "createdAt": "2023-12-18T12:32:07.750Z",
-    "updatedAt": "2023-12-18T12:32:07.750Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "dbe033fe-b3d1-4f7a-90e3-294df4989dc6",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:06:37.866Z",
-    "createdAt": "2023-12-18T12:32:08.065Z",
-    "updatedAt": "2023-12-18T12:32:08.065Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "dbfdb419-778e-440b-82a8-c96cf3517c68",
-    "type": "COLUMN",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Note",
-      "width": 180,
-      "config": {},
-      "fieldType": "Text",
-      "isPrimary": true,
-      "description": ""
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:59.303Z",
-    "createdAt": "2023-12-18T12:32:07.702Z",
-    "updatedAt": "2023-12-18T12:32:07.702Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "dd156fae-a068-4a5f-b6c6-e74b20eb58d3",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "tRPC "
-          },
-          {
-            "name": "backend",
-            "type": "tag",
-            "isOpen": false,
-            "trigger": "#",
-            "children": [
-              {
-                "text": "#"
-              }
-            ],
-            "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T02:38:39.612Z",
-    "createdAt": "2023-12-18T12:32:07.718Z",
-    "updatedAt": "2023-12-18T12:32:36.643Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "df97827a-0676-4c67-88a0-2cc88e6d4f5c",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "616d4819-f5b0-402d-bf82-5cd33a17eff3",
-      "columnId": "1f5a8fa9-4361-4dad-9843-097d7902a8d3"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:56:12.319Z",
-    "createdAt": "2023-12-18T12:32:07.975Z",
-    "updatedAt": "2023-12-18T12:32:07.975Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "e17a6fec-1ee3-41ba-9600-af20b10777fe",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "h2",
-        "children": [
-          {
-            "bold": true,
-            "text": "Features"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "59e456a4-f99e-48a8-9e57-788b1dc7c42e",
-      "8af94a99-2ab7-4476-a944-c55caeaa58c6",
-      "66a49505-f072-44a8-abb0-8fc2d7854efe",
-      "a1d1d7b3-822e-443d-997c-ecceef701d2a",
-      "bf9f3a7f-8693-462f-a7d3-9bf51901ecdf"
-    ],
-    "openedAt": "2023-12-12T02:40:22.733Z",
-    "createdAt": "2023-12-18T12:32:07.823Z",
-    "updatedAt": "2023-12-18T12:32:36.464Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
-    "databaseId": null
-  },
-  {
-    "id": "e251b81a-cd98-4554-86cf-9a8d48f82b47",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "You own your data, in spite of the cloud."
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:40:50.708Z",
-    "createdAt": "2023-12-18T12:32:08.319Z",
-    "updatedAt": "2023-12-18T12:32:36.487Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "8af94a99-2ab7-4476-a944-c55caeaa58c6",
-    "databaseId": null
-  },
-  {
-    "id": "e3c9c721-748b-4eb8-9571-5a845cc5defc",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:46.678Z",
-    "createdAt": "2023-12-18T12:32:07.983Z",
-    "updatedAt": "2023-12-18T12:32:07.983Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "e46e9901-76c6-492d-8bd7-c1bcb15e47a6",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T02:32:33.308Z",
-    "createdAt": "2023-12-18T12:32:08.105Z",
-    "updatedAt": "2023-12-18T12:32:08.105Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
-    "type": "COLUMN",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Description",
-      "width": 160,
-      "config": {},
-      "fieldType": "Text",
-      "isPrimary": false,
-      "description": ""
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:51.586Z",
-    "createdAt": "2023-12-18T12:32:07.734Z",
-    "updatedAt": "2023-12-18T12:32:07.734Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "e571b1c6-05fc-4eb1-9bb6-239258ede32c",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-13T07:04:35.415Z",
-    "createdAt": "2023-12-18T12:32:08.073Z",
-    "updatedAt": "2023-12-18T12:32:08.073Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "ebb109b8-5814-497a-b67a-2d1075882f9d",
-    "type": "VIEW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "list",
-      "sorts": [],
-      "groups": [],
-      "filters": [],
-      "viewType": "LIST",
-      "viewColumns": [
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648"
-        },
-        {
-          "width": 160,
-          "visible": true,
-          "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1"
-        }
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "0714936f-ea30-4387-acd2-384d2b0b0648",
-      "e552eac3-aa21-46e9-87b8-c071ee001ff1"
-    ],
-    "openedAt": "2023-12-18T01:50:44.278Z",
-    "createdAt": "2023-12-18T12:32:07.991Z",
-    "updatedAt": "2023-12-18T12:32:07.991Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "ebd33e53-04c7-42ba-a8b0-2697aeae8959",
-    "type": "DAILY",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "Monday, Dec 18th"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T01:51:00.896Z",
-    "createdAt": "2023-12-18T12:32:08.081Z",
-    "updatedAt": "2023-12-18T12:32:08.081Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": null,
-    "databaseId": null
-  },
-  {
-    "id": "edb399ce-48ab-4571-85a6-c0abd91e5321",
-    "type": "COLUMN",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "Note",
-      "width": 180,
-      "config": {},
-      "fieldType": "Text",
-      "isPrimary": true,
-      "description": ""
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-12T03:15:07.026Z",
-    "createdAt": "2023-12-18T12:32:07.753Z",
-    "updatedAt": "2023-12-18T12:32:07.753Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "eddbf01d-b0ad-4ebb-a6e8-3f1ba5221c6d",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "IndexedDB #"
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T02:38:44.611Z",
-    "createdAt": "2023-12-18T12:32:08.363Z",
-    "updatedAt": "2023-12-18T12:32:36.672Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "ce462011-612a-4c56-b7e2-66d4fec9f338",
-    "databaseId": null
-  },
-  {
-    "id": "f0462028-8e12-4f15-bde8-882ccf82fb88",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "f84ba53b-f0ab-49ab-85f9-7608ede5ede5",
-      "options": [],
-      "columnId": "32b3132d-59c5-4c68-8f5a-dc196f3e2aef",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:59.968Z",
-    "createdAt": "2023-12-18T12:32:07.705Z",
-    "updatedAt": "2023-12-18T12:32:07.705Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "f2e242de-c729-4ce5-978a-2713f22b0657",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "817a87d4-1987-42ee-a9ac-df174884f4c6",
-      "data": "",
-      "rowId": "da4fa9af-68df-46fd-9115-42a12ed8a5dd",
-      "options": [],
-      "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
-      "fieldType": "Text"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:52.244Z",
-    "createdAt": "2023-12-18T12:32:07.709Z",
-    "updatedAt": "2023-12-18T12:32:07.709Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "f3224bc8-72e8-425c-ae1a-aa930e8e8ac6",
-    "type": "CELL",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "ref": "",
-      "data": "",
-      "rowId": "e3c9c721-748b-4eb8-9571-5a845cc5defc",
-      "columnId": "1f5a8fa9-4361-4dad-9843-097d7902a8d3"
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T02:27:46.685Z",
-    "createdAt": "2023-12-18T12:32:08.117Z",
-    "updatedAt": "2023-12-18T12:32:08.117Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "297cc812-af8e-4753-8941-f3313a37e5eb",
-    "databaseId": "297cc812-af8e-4753-8941-f3313a37e5eb"
-  },
-  {
-    "id": "f84ba53b-f0ab-49ab-85f9-7608ede5ede5",
-    "type": "ROW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-05T03:27:59.961Z",
-    "createdAt": "2023-12-18T12:32:07.713Z",
-    "updatedAt": "2023-12-18T12:32:07.713Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7c567962-0a95-4732-987f-208f86ab207d",
-    "databaseId": "7c567962-0a95-4732-987f-208f86ab207d"
-  },
-  {
-    "id": "ff729c67-d4af-4457-a647-cd9719b395f6",
+    "id": "76d5cdf9-4a8a-4ffe-843d-91daf2f41094",
     "type": "COMMON",
     "element": [
       {
@@ -3546,11 +478,779 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-12T03:09:28.696Z",
-    "createdAt": "2023-12-18T12:32:07.622Z",
-    "updatedAt": "2023-12-18T12:32:36.603Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "146a81be-ed14-49e4-b722-492a8a132b27",
-    "databaseId": null
+    "openedAt": "2023-12-18T12:49:46.512Z",
+    "createdAt": "2023-12-18T12:49:46.512Z",
+    "updatedAt": "2023-12-18T12:50:31.840Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "886331f8-4944-4417-a369-a7b248a5b880",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "You own your data, in spite of the cloud."
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:47:11.126Z",
+    "createdAt": "2023-12-18T12:47:11.127Z",
+    "updatedAt": "2023-12-18T12:50:31.739Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "20c5d8f8-3345-48d7-9b6d-a4b6ce72b715"
+  },
+  {
+    "id": "88f25862-db7c-4511-a5e4-28d425def14e",
+    "type": "DATABASE_ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:45:30.481Z",
+    "createdAt": "2023-12-18T12:45:30.481Z",
+    "updatedAt": "2023-12-18T12:45:30.481Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
+    "id": "915c8854-1831-4fb8-a2fc-d9f5e8d9e3be",
+    "type": "FAVORITE",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:45:30.477Z",
+    "createdAt": "2023-12-18T12:45:30.477Z",
+    "updatedAt": "2023-12-18T12:45:30.477Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
+    "id": "929d3da4-0ff9-4e80-ae42-62f119bee8d3",
+    "type": "INBOX",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Inbox"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "aede093a-3983-4c56-9175-8011c8ca3e0f"
+    ],
+    "openedAt": "2023-12-18T12:45:30.423Z",
+    "createdAt": "2023-12-18T12:45:30.423Z",
+    "updatedAt": "2023-12-18T12:45:30.423Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
+    "id": "93c4b565-b861-4c35-a3f9-f6e88800d218",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "PWA"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:50:11.724Z",
+    "createdAt": "2023-12-18T12:50:11.724Z",
+    "updatedAt": "2023-12-18T12:50:31.891Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
+  },
+  {
+    "id": "985d5977-dacc-4cab-9778-bb71b7d8819b",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "GitHub-Based Version control Out-of-box"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:20.628Z",
+    "createdAt": "2023-12-18T12:49:20.628Z",
+    "updatedAt": "2023-12-18T12:50:31.804Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "5aea9873-2255-4c5e-90ea-1a9ea2082a3f"
+  },
+  {
+    "id": "a1307df3-1333-4036-9bef-d20ddb80ab5f",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Trust our code, not our words"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:48:32.880Z",
+    "createdAt": "2023-12-18T12:48:32.880Z",
+    "updatedAt": "2023-12-18T12:50:31.779Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "28603e38-f220-4201-9b6c-1201ef236449"
+  },
+  {
+    "id": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "What PenX can do?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "b5f4cbdc-5583-472d-af05-51d5e597daed",
+      "cf96c4da-dc83-4c8c-b4d0-a2c7ca6ce5a2",
+      "d9064905-d0c9-4459-b56c-c50a1f054a8d",
+      "76d5cdf9-4a8a-4ffe-843d-91daf2f41094",
+      "e6302c3e-9ccb-4481-aa5b-bed132938953",
+      "e63732b7-2d5d-428d-9d91-4547b791bf21"
+    ],
+    "openedAt": "2023-12-18T12:49:30.324Z",
+    "createdAt": "2023-12-18T12:49:30.324Z",
+    "updatedAt": "2023-12-18T12:50:31.809Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "a576a20d-45db-4801-ada6-9d53adaf94e8",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "Features"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "6227b254-5fda-4323-99ea-3c28d28e3221",
+      "20c5d8f8-3345-48d7-9b6d-a4b6ce72b715",
+      "cac6a1fa-db82-4d5c-8f80-18bfec2168e9",
+      "28603e38-f220-4201-9b6c-1201ef236449",
+      "5aea9873-2255-4c5e-90ea-1a9ea2082a3f"
+    ],
+    "openedAt": "2023-12-18T12:46:28.072Z",
+    "createdAt": "2023-12-18T12:46:28.072Z",
+    "updatedAt": "2023-12-18T12:50:31.722Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "a5cfc263-3193-48da-bce0-afee040fb99c",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          },
+          {
+            "type": "a",
+            "url": "https://www.youtube.com/watch?v=KrPsyr8Ig6M",
+            "children": [
+              {
+                "text": "https://www.youtube.com/watch?v=KrPsyr8Ig6M"
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:48:02.351Z",
+    "createdAt": "2023-12-18T12:48:02.351Z",
+    "updatedAt": "2023-12-18T12:50:31.761Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "0dfe1fa9-b547-4ddc-be4e-9bf536cfe0ce"
+  },
+  {
+    "id": "a66ab13a-c3fa-41fc-a4da-0b98297d4d5e",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:46:06.757Z",
+    "createdAt": "2023-12-18T12:46:06.757Z",
+    "updatedAt": "2023-12-18T12:50:31.895Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "aede093a-3983-4c56-9175-8011c8ca3e0f",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:45:30.410Z",
+    "createdAt": "2023-12-18T12:45:30.410Z",
+    "updatedAt": "2023-12-18T12:45:30.410Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
+    "id": "b5f4cbdc-5583-472d-af05-51d5e597daed",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "What PenX can do?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.500Z",
+    "createdAt": "2023-12-18T12:49:46.500Z",
+    "updatedAt": "2023-12-18T12:50:31.817Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "bc574fca-e51d-4b75-b4bd-70aba3f1bdda",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Use End-To-End Encryption to sync data"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:48:22.423Z",
+    "createdAt": "2023-12-18T12:48:22.423Z",
+    "updatedAt": "2023-12-18T12:50:31.770Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "cac6a1fa-db82-4d5c-8f80-18bfec2168e9"
+  },
+  {
+    "id": "bcdcee54-df65-43b1-ada8-2df76e462eab",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "A structured note-taking app for personal use."
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:46:15.475Z",
+    "createdAt": "2023-12-18T12:46:15.475Z",
+    "updatedAt": "2023-12-18T12:50:31.713Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "4da58119-9bc3-4d03-ac0e-88a6b9865214"
+  },
+  {
+    "id": "bfebf3cf-87cc-4185-8eb2-bc76ac87afcc",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "What Is Open Source Software?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "f9b43ed3-065c-4f6d-b594-9fc76e11c496"
+    ],
+    "openedAt": "2023-12-18T12:48:41.738Z",
+    "createdAt": "2023-12-18T12:48:41.738Z",
+    "updatedAt": "2023-12-18T12:50:31.784Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "28603e38-f220-4201-9b6c-1201ef236449"
+  },
+  {
+    "id": "c4f97c38-053c-4d78-ac1f-faaaa054c2a1",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "An elegant way to write structured note"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:46:55.323Z",
+    "createdAt": "2023-12-18T12:46:55.323Z",
+    "updatedAt": "2023-12-18T12:50:31.731Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "6227b254-5fda-4323-99ea-3c28d28e3221"
+  },
+  {
+    "id": "cac6a1fa-db82-4d5c-8f80-18bfec2168e9",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Privacy-First"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "bc574fca-e51d-4b75-b4bd-70aba3f1bdda"
+    ],
+    "openedAt": "2023-12-18T12:48:09.120Z",
+    "createdAt": "2023-12-18T12:48:09.120Z",
+    "updatedAt": "2023-12-18T12:50:31.766Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a576a20d-45db-4801-ada6-9d53adaf94e8"
+  },
+  {
+    "id": "cf96c4da-dc83-4c8c-b4d0-a2c7ca6ce5a2",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Note-taking"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.504Z",
+    "createdAt": "2023-12-18T12:49:46.504Z",
+    "updatedAt": "2023-12-18T12:50:31.829Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "d13b9089-e0ea-4e1a-982f-84399208cf8f",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "More Info:"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "66ab17a7-a1fa-45b9-91be-237fd6f30fa4"
+    ],
+    "openedAt": "2023-12-18T12:47:26.591Z",
+    "createdAt": "2023-12-18T12:47:26.591Z",
+    "updatedAt": "2023-12-18T12:50:31.747Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "20c5d8f8-3345-48d7-9b6d-a4b6ce72b715"
+  },
+  {
+    "id": "d843d4eb-1009-444b-9dbe-e631679ad99e",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "More than a note-taking app, It could be your personal database with easy input and output."
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:46:22.414Z",
+    "createdAt": "2023-12-18T12:46:22.414Z",
+    "updatedAt": "2023-12-18T12:50:31.717Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "4da58119-9bc3-4d03-ac0e-88a6b9865214"
+  },
+  {
+    "id": "d8d19d74-250d-41da-9a41-dfca20b833c8",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "blockquote",
+        "children": [
+          {
+            "text": "PenX is in Beta now."
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:46:03.449Z",
+    "createdAt": "2023-12-18T12:46:03.449Z",
+    "updatedAt": "2023-12-18T12:50:31.704Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "d9064905-d0c9-4459-b56c-c50a1f054a8d",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Tasks"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.508Z",
+    "createdAt": "2023-12-18T12:49:46.508Z",
+    "updatedAt": "2023-12-18T12:50:31.834Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "e07fc288-df3a-4323-8f94-444f57ba7a66",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "tRPC"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:50:11.699Z",
+    "createdAt": "2023-12-18T12:50:11.699Z",
+    "updatedAt": "2023-12-18T12:50:31.868Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
+  },
+  {
+    "id": "e6302c3e-9ccb-4481-aa5b-bed132938953",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Password"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.516Z",
+    "createdAt": "2023-12-18T12:49:46.516Z",
+    "updatedAt": "2023-12-18T12:50:31.845Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "e63732b7-2d5d-428d-9d91-4547b791bf21",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Documents"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.520Z",
+    "createdAt": "2023-12-18T12:49:46.520Z",
+    "updatedAt": "2023-12-18T12:50:31.849Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "edb85e95-cf6f-4370-b3bb-a9e88ac30065",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "NextAuth.js"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:50:11.709Z",
+    "createdAt": "2023-12-18T12:50:11.709Z",
+    "updatedAt": "2023-12-18T12:50:31.877Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
+  },
+  {
+    "id": "f297b7dd-e462-49b2-a299-c7487780b178",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "Primary tech stack"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "0fb9b6e0-ae0a-4302-a761-a143ae51debc",
+      "f93e26a2-4bd0-4ec5-b442-f22b6644d262",
+      "e07fc288-df3a-4323-8f94-444f57ba7a66",
+      "190f9ae7-77b1-4d87-ad68-945fbb707ec0",
+      "edb85e95-cf6f-4370-b3bb-a9e88ac30065",
+      "3b762147-c4f6-4ed0-aa97-409cdcf10e21",
+      "06869c22-a0cb-4935-8639-bc08ca82fefa",
+      "93c4b565-b861-4c35-a3f9-f6e88800d218"
+    ],
+    "openedAt": "2023-12-18T12:49:58.217Z",
+    "createdAt": "2023-12-18T12:49:58.218Z",
+    "updatedAt": "2023-12-18T12:50:31.854Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "f93e26a2-4bd0-4ec5-b442-f22b6644d262",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "TypeScript"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:50:11.695Z",
+    "createdAt": "2023-12-18T12:50:11.695Z",
+    "updatedAt": "2023-12-18T12:50:31.864Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
+  },
+  {
+    "id": "f9b43ed3-065c-4f6d-b594-9fc76e11c496",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          },
+          {
+            "type": "a",
+            "url": "https://www.youtube.com/watch?v=TEttd0Qkqnc",
+            "children": [
+              {
+                "text": "https://www.youtube.com/watch?v=TEttd0Qkqnc"
+              }
+            ]
+          },
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:48:49.137Z",
+    "createdAt": "2023-12-18T12:48:49.137Z",
+    "updatedAt": "2023-12-18T12:50:31.788Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "bfebf3cf-87cc-4185-8eb2-bc76ac87afcc"
+  },
+  {
+    "id": "fa1bba6c-55e3-4519-8a43-b624cfbf4340",
+    "type": "ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "penx-101-cloud"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "d8d19d74-250d-41da-9a41-dfca20b833c8",
+      "4da58119-9bc3-4d03-ac0e-88a6b9865214",
+      "a576a20d-45db-4801-ada6-9d53adaf94e8",
+      "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93",
+      "f297b7dd-e462-49b2-a299-c7487780b178",
+      "a66ab13a-c3fa-41fc-a4da-0b98297d4d5e"
+    ],
+    "openedAt": "2023-12-18T12:45:30.410Z",
+    "createdAt": "2023-12-18T12:45:30.410Z",
+    "updatedAt": "2023-12-18T12:50:31.676Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   }
 ]
