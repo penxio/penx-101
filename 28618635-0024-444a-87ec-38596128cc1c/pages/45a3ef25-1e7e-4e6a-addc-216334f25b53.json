@@ -7,7 +7,7 @@
         "type": "h2",
         "children": [
           {
-            "text": "How to setup sync?"
+            "text": "How to backup data to GitHub?"
           }
         ]
       }
@@ -18,7 +18,7 @@
     "children": [],
     "openedAt": "2023-12-05T01:57:54.864Z",
     "createdAt": "2023-12-18T07:16:18.355Z",
-    "updatedAt": "2023-12-18T07:16:18.355Z",
+    "updatedAt": "2023-12-18T07:19:16.178Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
     "databaseId": null
