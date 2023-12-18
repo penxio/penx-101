@@ -16,8 +16,8 @@
       "name": "backend",
       "color": "pink500",
       "viewIds": [
-        "58e53729-dff5-4daf-89a8-f1a3ba89b187",
-        "9ee63922-a6dc-41c7-86f5-19a56e5ed419"
+        "9ee63922-a6dc-41c7-86f5-19a56e5ed419",
+        "ebb109b8-5814-497a-b67a-2d1075882f9d"
       ]
     },
     "collapsed": false,
@@ -25,7 +25,7 @@
     "children": [],
     "openedAt": "2023-12-05T03:27:51.568Z",
     "createdAt": "2023-12-18T01:36:01.808Z",
-    "updatedAt": "2023-12-18T01:44:30.442Z",
+    "updatedAt": "2023-12-18T01:50:44.280Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "be4dab7d-1d69-49d8-bae6-507e5901ce24",
     "databaseId": null
@@ -112,51 +112,6 @@
     "openedAt": "2023-12-05T03:29:08.342Z",
     "createdAt": "2023-12-18T01:36:01.909Z",
     "updatedAt": "2023-12-18T01:36:01.909Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
-    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
-  },
-  {
-    "id": "58e53729-dff5-4daf-89a8-f1a3ba89b187",
-    "type": "VIEW",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {
-      "name": "List",
-      "viewType": "List",
-      "filters": [],
-      "groups": [],
-      "sorts": [],
-      "viewColumns": [
-        {
-          "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
-          "width": 160,
-          "visible": true
-        },
-        {
-          "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
-          "width": 160,
-          "visible": true
-        }
-      ]
-    },
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "0714936f-ea30-4387-acd2-384d2b0b0648",
-      "e552eac3-aa21-46e9-87b8-c071ee001ff1"
-    ],
-    "openedAt": "2023-12-05T03:27:51.596Z",
-    "createdAt": "2023-12-18T01:36:01.829Z",
-    "updatedAt": "2023-12-18T01:44:30.452Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
     "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
@@ -276,7 +231,7 @@
       "viewColumns": [
         {
           "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
-          "width": 160,
+          "width": 211,
           "visible": true
         },
         {
@@ -294,7 +249,7 @@
     ],
     "openedAt": "2023-12-05T03:27:51.591Z",
     "createdAt": "2023-12-18T01:36:01.837Z",
-    "updatedAt": "2023-12-18T01:44:30.459Z",
+    "updatedAt": "2023-12-18T01:50:50.383Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
     "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
@@ -408,6 +363,51 @@
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
     "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
+  },
+  {
+    "id": "ebb109b8-5814-497a-b67a-2d1075882f9d",
+    "type": "VIEW",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "name": "list",
+      "viewType": "LIST",
+      "viewColumns": [
+        {
+          "columnId": "0714936f-ea30-4387-acd2-384d2b0b0648",
+          "width": 160,
+          "visible": true
+        },
+        {
+          "columnId": "e552eac3-aa21-46e9-87b8-c071ee001ff1",
+          "width": 160,
+          "visible": true
+        }
+      ],
+      "sorts": [],
+      "filters": [],
+      "groups": []
+    },
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "0714936f-ea30-4387-acd2-384d2b0b0648",
+      "e552eac3-aa21-46e9-87b8-c071ee001ff1"
+    ],
+    "openedAt": "2023-12-18T01:50:44.278Z",
+    "createdAt": "2023-12-18T01:50:44.278Z",
+    "updatedAt": "2023-12-18T01:50:44.278Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "databaseId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3",
+    "parentId": "0000b393-a73a-42dd-9c1f-a1fd5f27d7a3"
   },
   {
     "id": "f2e242de-c729-4ce5-978a-2713f22b0657",

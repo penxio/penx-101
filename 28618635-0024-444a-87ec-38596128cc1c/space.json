@@ -1,6 +1,6 @@
 {
   "id": "28618635-0024-444a-87ec-38596128cc1c",
-  "name": "penx-101-cloud",
+  "name": "PenX 101",
   "description": null,
   "subdomain": "ee36be92-55e9-4ed8-8369-5531bb0a6b5f",
   "customDomain": null,
@@ -9,7 +9,7 @@
   "isActive": true,
   "encrypted": false,
   "activeNodeIds": [
-    "e17a6fec-1ee3-41ba-9600-af20b10777fe"
+    "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
   ],
   "nodeSnapshot": {
     "nodeMap": {
@@ -113,7 +113,7 @@
     "version": 100
   },
   "pageSnapshot": {
-    "version": 7,
+    "version": 8,
     "pageMap": {
       "b0dfcdf8-ae62-4418-a3f6-336373136ccb": "5c2f062c07c90ebcea0cc526210af29dfde8b61f157e11ec88d6ec88802cb0ec",
       "31da9ed9-4be0-4865-a775-bb21e06bdaf2": "45b27aa5068ccd060c2521020d039a298b325bced1d96ea9654f9c0b16446f35",
@@ -141,9 +141,10 @@
       "af3a5b5e-4dfb-4a30-a25f-638e02463ad9": "d64ddd7b30021057306b8c362a292a12fdbfe0bf796f694100e2c4c9306af798",
       "3a8b38b7-d512-402b-b8a0-1464c0b7141a": "8d30caa20542979ae23c6d9f794f7b8b90453d5dda6dd9427b0bf8ad230d3e16",
       "021ac595-48f3-4b7d-83e2-27cb04d9edd8": "5cbb87869679f156806d344f2c2bf430cdfb416f45b3f3ad1ece8408e2d317af",
+      "7d4b34ce-dd56-4070-ab03-91e8550b64ab": "b9a803adab21668bdd48141193cdf9891716cd0eaca743977ccca0f61ffa229c",
       "ROOT": "3bd76f0f0d2798f578b2bac42bae60aa9667f2d80d3e86f77e574210be02600b",
       "DATABASE_ROOT": "adfebbeb3e18b5643acf7ffe9abacd5b1cbda0f8b69fc2d68f2ea507d599cadb",
-      "DAILY_ROOT": "743f8bd1c443a99b6f95511d12406e1b8dc1669c96c62094721c0e880c5f1084",
+      "DAILY_ROOT": "a1f587db0c7949b36d8257b6b2f6c17159fac6dbef4730d2d468a77a2d69e799",
       "FAVORITE": "de2bcfdbec60fc6009072b7fdd15eff584ea7fe3945d1b27cc923ea3d514c037",
       "INBOX": "2729eaadd6e49363e21f194805a1d788dfad44eeee07e0779c26f7fbc82365f0",
       "TRASH": "92e6a7be428126f5d4c9498f0340b94071fd71b3c7f9518501f5ebdc65150053"
