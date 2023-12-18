@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4da58119-9bc3-4d03-ac0e-88a6b9865214",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "What is PenX？"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "bcdcee54-df65-43b1-ada8-2df76e462eab",
+      "d843d4eb-1009-444b-9dbe-e631679ad99e"
+    ],
+    "openedAt": "2023-12-18T12:46:10.683Z",
+    "createdAt": "2023-12-18T12:46:10.683Z",
+    "updatedAt": "2023-12-18T12:50:13.396Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "bcdcee54-df65-43b1-ada8-2df76e462eab",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "A structured note-taking app for personal use."
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:46:15.475Z",
+    "createdAt": "2023-12-18T12:46:15.475Z",
+    "updatedAt": "2023-12-18T12:50:13.400Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "4da58119-9bc3-4d03-ac0e-88a6b9865214"
+  },
+  {
+    "id": "d843d4eb-1009-444b-9dbe-e631679ad99e",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "More than a note-taking app, It could be your personal database with easy input and output."
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:46:22.414Z",
+    "createdAt": "2023-12-18T12:46:22.414Z",
+    "updatedAt": "2023-12-18T12:50:13.404Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "4da58119-9bc3-4d03-ac0e-88a6b9865214"
+  }
+]

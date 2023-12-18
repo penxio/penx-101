@@ -1,0 +1,25 @@
+[
+  {
+    "id": "f297b7dd-e462-49b2-a299-c7487780b178",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "Primary tech stack"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:58.217Z",
+    "createdAt": "2023-12-18T12:49:58.218Z",
+    "updatedAt": "2023-12-18T12:50:13.526Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  }
+]

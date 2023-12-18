@@ -1,0 +1,25 @@
+[
+  {
+    "id": "06869c22-a0cb-4935-8639-bc08ca82fefa",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "IndexedDB #"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:50:11.719Z",
+    "createdAt": "2023-12-18T12:50:11.719Z",
+    "updatedAt": "2023-12-18T12:50:13.561Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  }
+]

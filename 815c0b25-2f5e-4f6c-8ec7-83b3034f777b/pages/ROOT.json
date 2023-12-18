@@ -1,0 +1,39 @@
+[
+  {
+    "id": "fa1bba6c-55e3-4519-8a43-b624cfbf4340",
+    "type": "ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "penx-101-cloud"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "d8d19d74-250d-41da-9a41-dfca20b833c8",
+      "4da58119-9bc3-4d03-ac0e-88a6b9865214",
+      "a576a20d-45db-4801-ada6-9d53adaf94e8",
+      "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93",
+      "f297b7dd-e462-49b2-a299-c7487780b178",
+      "0fb9b6e0-ae0a-4302-a761-a143ae51debc",
+      "f93e26a2-4bd0-4ec5-b442-f22b6644d262",
+      "e07fc288-df3a-4323-8f94-444f57ba7a66",
+      "190f9ae7-77b1-4d87-ad68-945fbb707ec0",
+      "edb85e95-cf6f-4370-b3bb-a9e88ac30065",
+      "3b762147-c4f6-4ed0-aa97-409cdcf10e21",
+      "06869c22-a0cb-4935-8639-bc08ca82fefa",
+      "93c4b565-b861-4c35-a3f9-f6e88800d218",
+      "a66ab13a-c3fa-41fc-a4da-0b98297d4d5e"
+    ],
+    "openedAt": "2023-12-18T12:45:30.410Z",
+    "createdAt": "2023-12-18T12:45:30.410Z",
+    "updatedAt": "2023-12-18T12:50:13.353Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  }
+]

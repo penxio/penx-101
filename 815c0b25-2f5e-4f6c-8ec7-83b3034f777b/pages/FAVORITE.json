@@ -1,0 +1,24 @@
+[
+  {
+    "id": "915c8854-1831-4fb8-a2fc-d9f5e8d9e3be",
+    "type": "FAVORITE",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:45:30.477Z",
+    "createdAt": "2023-12-18T12:45:30.477Z",
+    "updatedAt": "2023-12-18T12:45:30.477Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  }
+]

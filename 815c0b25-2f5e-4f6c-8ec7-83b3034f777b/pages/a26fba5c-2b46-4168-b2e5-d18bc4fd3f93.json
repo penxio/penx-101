@@ -1,0 +1,170 @@
+[
+  {
+    "id": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "h2",
+        "children": [
+          {
+            "text": "What PenX can do?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "b5f4cbdc-5583-472d-af05-51d5e597daed",
+      "cf96c4da-dc83-4c8c-b4d0-a2c7ca6ce5a2",
+      "d9064905-d0c9-4459-b56c-c50a1f054a8d",
+      "76d5cdf9-4a8a-4ffe-843d-91daf2f41094",
+      "e6302c3e-9ccb-4481-aa5b-bed132938953",
+      "e63732b7-2d5d-428d-9d91-4547b791bf21"
+    ],
+    "openedAt": "2023-12-18T12:49:30.324Z",
+    "createdAt": "2023-12-18T12:49:30.324Z",
+    "updatedAt": "2023-12-18T12:50:13.492Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "b5f4cbdc-5583-472d-af05-51d5e597daed",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "What PenX can do?"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.500Z",
+    "createdAt": "2023-12-18T12:49:46.500Z",
+    "updatedAt": "2023-12-18T12:50:13.497Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "cf96c4da-dc83-4c8c-b4d0-a2c7ca6ce5a2",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Note-taking"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.504Z",
+    "createdAt": "2023-12-18T12:49:46.504Z",
+    "updatedAt": "2023-12-18T12:50:13.501Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "d9064905-d0c9-4459-b56c-c50a1f054a8d",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Tasks"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.508Z",
+    "createdAt": "2023-12-18T12:49:46.508Z",
+    "updatedAt": "2023-12-18T12:50:13.506Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "76d5cdf9-4a8a-4ffe-843d-91daf2f41094",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Ideas"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.512Z",
+    "createdAt": "2023-12-18T12:49:46.512Z",
+    "updatedAt": "2023-12-18T12:50:13.511Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "e6302c3e-9ccb-4481-aa5b-bed132938953",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Password"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.516Z",
+    "createdAt": "2023-12-18T12:49:46.516Z",
+    "updatedAt": "2023-12-18T12:50:13.516Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  },
+  {
+    "id": "e63732b7-2d5d-428d-9d91-4547b791bf21",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Documents"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:49:46.520Z",
+    "createdAt": "2023-12-18T12:49:46.520Z",
+    "updatedAt": "2023-12-18T12:50:13.521Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
+    "parentId": "a26fba5c-2b46-4168-b2e5-d18bc4fd3f93"
+  }
+]
