@@ -7,7 +7,7 @@
         "type": "h2",
         "children": [
           {
-            "text": "How to backup data to GitHub?"
+            "text": "How to setup sync?"
           }
         ]
       }
@@ -15,98 +15,12 @@
     "props": {},
     "collapsed": false,
     "folded": true,
-    "children": [
-      "8a9be870-669d-4071-adef-30cdc3169924",
-      "b4d38203-4a5e-4e7c-821b-7be6d5675e76"
-    ],
+    "children": [],
     "openedAt": "2023-12-05T01:57:54.864Z",
-    "createdAt": "2023-12-18T02:54:21.602Z",
-    "updatedAt": "2023-12-18T05:08:39.742Z",
+    "createdAt": "2023-12-18T06:41:45.810Z",
+    "updatedAt": "2023-12-18T06:41:45.810Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
     "databaseId": null
-  },
-  {
-    "id": "8a9be870-669d-4071-adef-30cdc3169924",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": "First, prepare a GitHub account. Register a GitHub account: "
-          },
-          {
-            "type": "a",
-            "url": "https://github.com/",
-            "children": [
-              {
-                "text": "https://github.com"
-              }
-            ]
-          },
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T05:05:12.021Z",
-    "createdAt": "2023-12-18T05:05:12.022Z",
-    "updatedAt": "2023-12-18T05:08:39.750Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "45a3ef25-1e7e-4e6a-addc-216334f25b53"
-  },
-  {
-    "id": "b4d38203-4a5e-4e7c-821b-7be6d5675e76",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [
-      "211dd723-af0b-4c82-8a37-257ab9df3e64"
-    ],
-    "openedAt": "2023-12-18T05:06:52.427Z",
-    "createdAt": "2023-12-18T05:06:52.427Z",
-    "updatedAt": "2023-12-18T05:08:39.758Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "45a3ef25-1e7e-4e6a-addc-216334f25b53"
-  },
-  {
-    "id": "211dd723-af0b-4c82-8a37-257ab9df3e64",
-    "type": "COMMON",
-    "element": [
-      {
-        "type": "p",
-        "children": [
-          {
-            "text": ""
-          }
-        ]
-      }
-    ],
-    "props": {},
-    "collapsed": false,
-    "folded": true,
-    "children": [],
-    "openedAt": "2023-12-18T04:58:02.905Z",
-    "createdAt": "2023-12-18T04:58:02.905Z",
-    "updatedAt": "2023-12-18T05:08:39.766Z",
-    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "b4d38203-4a5e-4e7c-821b-7be6d5675e76"
   }
 ]
