@@ -1,6 +1,6 @@
 {
   "id": "28618635-0024-444a-87ec-38596128cc1c",
-  "name": "penx-101-cloud",
+  "name": "PenX 101",
   "description": null,
   "subdomain": "ee36be92-55e9-4ed8-8369-5531bb0a6b5f",
   "customDomain": null,
@@ -9,7 +9,7 @@
   "isActive": true,
   "encrypted": false,
   "activeNodeIds": [
-    "7206c77a-e6fa-4619-8e55-80b098808bd9"
+    "9703a1ab-7870-4fc5-9a58-67bd89ff4a69"
   ],
   "nodeSnapshot": {
     "nodeMap": {
@@ -180,8 +180,8 @@
     "version": 2
   },
   "deletedAt": null,
-  "createdAt": "2023-12-18T07:20:10.914Z",
-  "updatedAt": "2023-12-18T07:20:10.914Z",
+  "createdAt": "2023-12-18T07:35:19.986Z",
+  "updatedAt": "2023-12-18T07:35:19.986Z",
   "userId": "6f56508b-075a-449c-9743-df6b42df690f",
   "isCloud": true
 }
