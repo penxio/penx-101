@@ -16,14 +16,39 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "211dd723-af0b-4c82-8a37-257ab9df3e64"
+      "8a9be870-669d-4071-adef-30cdc3169924"
     ],
     "openedAt": "2023-12-05T01:57:54.864Z",
     "createdAt": "2023-12-18T02:54:21.602Z",
-    "updatedAt": "2023-12-18T04:58:06.206Z",
+    "updatedAt": "2023-12-18T05:05:14.861Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
     "parentId": "9703a1ab-7870-4fc5-9a58-67bd89ff4a69",
     "databaseId": null
+  },
+  {
+    "id": "8a9be870-669d-4071-adef-30cdc3169924",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Fi"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "211dd723-af0b-4c82-8a37-257ab9df3e64"
+    ],
+    "openedAt": "2023-12-18T05:05:12.021Z",
+    "createdAt": "2023-12-18T05:05:12.022Z",
+    "updatedAt": "2023-12-18T05:05:14.866Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
+    "parentId": "45a3ef25-1e7e-4e6a-addc-216334f25b53"
   },
   {
     "id": "211dd723-af0b-4c82-8a37-257ab9df3e64",
@@ -44,8 +69,8 @@
     "children": [],
     "openedAt": "2023-12-18T04:58:02.905Z",
     "createdAt": "2023-12-18T04:58:02.905Z",
-    "updatedAt": "2023-12-18T04:58:06.210Z",
+    "updatedAt": "2023-12-18T05:05:14.875Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "45a3ef25-1e7e-4e6a-addc-216334f25b53"
+    "parentId": "8a9be870-669d-4071-adef-30cdc3169924"
   }
 ]
