@@ -21,10 +21,11 @@
       "890078be-16d1-41b9-9eb4-042da2126231"
     ],
     "openedAt": "2023-12-18T01:53:13.115Z",
-    "createdAt": "2023-12-18T01:53:13.115Z",
-    "updatedAt": "2023-12-18T01:53:23.136Z",
+    "createdAt": "2023-12-18T02:54:21.945Z",
+    "updatedAt": "2023-12-18T02:54:21.945Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "7fa05825-9154-4502-a46b-d9a3ff9b8e40"
+    "parentId": "7fa05825-9154-4502-a46b-d9a3ff9b8e40",
+    "databaseId": null
   },
   {
     "id": "890078be-16d1-41b9-9eb4-042da2126231",
@@ -44,9 +45,10 @@
     "folded": true,
     "children": [],
     "openedAt": "2023-12-18T01:53:13.115Z",
-    "createdAt": "2023-12-18T01:53:13.115Z",
-    "updatedAt": "2023-12-18T01:53:23.154Z",
+    "createdAt": "2023-12-18T02:54:22.007Z",
+    "updatedAt": "2023-12-18T02:54:22.007Z",
     "spaceId": "28618635-0024-444a-87ec-38596128cc1c",
-    "parentId": "5cfb49d3-fa40-4055-a03b-51b73e7242f2"
+    "parentId": "5cfb49d3-fa40-4055-a03b-51b73e7242f2",
+    "databaseId": null
   }
 ]
