@@ -1,0 +1,24 @@
+[
+  {
+    "id": "861d6fcc-7cbb-4df4-9759-e3368267561a",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Monday, Dec 18th"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T01:53:00.850Z",
+    "createdAt": "2023-12-18T01:53:00.850Z",
+    "updatedAt": "2023-12-18T01:53:00.850Z",
+    "spaceId": "28618635-0024-444a-87ec-38596128cc1c"
+  }
+]
