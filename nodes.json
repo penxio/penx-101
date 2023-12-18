@@ -58,7 +58,7 @@
         "type": "p",
         "children": [
           {
-            "text": "Saturday, Dec 16th"
+            "text": "Monday, Dec 18th"
           }
         ]
       }
@@ -127,6 +127,28 @@
     "databaseId": null
   },
   {
+    "id": "3bc890c3-a15e-48af-8643-428e6528e0b6",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Monday, Dec 18th"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T01:29:44.867Z",
+    "createdAt": "2023-12-18T01:29:44.867Z",
+    "updatedAt": "2023-12-18T01:29:44.867Z",
+    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c"
+  },
+  {
     "id": "4604d913-ea3c-44d2-8e1a-cc768ce02e1e",
     "type": "COMMON",
     "element": [
@@ -157,7 +179,7 @@
         "type": "p",
         "children": [
           {
-            "text": "Saturday, Dec 16th"
+            "text": "Monday, Dec 18th"
           }
         ]
       }
@@ -194,6 +216,28 @@
     "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c",
     "parentId": null,
     "databaseId": null
+  },
+  {
+    "id": "50de827d-db29-45b4-9455-b745c9e19203",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Monday, Dec 18th"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T01:29:53.543Z",
+    "createdAt": "2023-12-18T01:29:53.543Z",
+    "updatedAt": "2023-12-18T01:29:53.543Z",
+    "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c"
   },
   {
     "id": "53739ee7-13ad-46cf-9976-5969c8280439",
@@ -299,7 +343,7 @@
         "type": "p",
         "children": [
           {
-            "text": "Saturday, Dec 16th"
+            "text": "Monday, Dec 18th"
           }
         ]
       }
@@ -360,11 +404,13 @@
       "0a53a2d2-dded-46ff-90e2-0326727cc40d",
       "1e6f0074-1ef8-453a-887f-d8c1451e3bce",
       "4736bba3-15f2-41b3-9ea6-6783a9c16dee",
-      "b74dca99-6c90-4da3-a955-3c8b0ab3fbca"
+      "b74dca99-6c90-4da3-a955-3c8b0ab3fbca",
+      "3bc890c3-a15e-48af-8643-428e6528e0b6",
+      "50de827d-db29-45b4-9455-b745c9e19203"
     ],
     "openedAt": "2023-12-08T03:27:32.151Z",
     "createdAt": "2023-12-13T07:47:15.458Z",
-    "updatedAt": "2023-12-15T02:08:11.403Z",
+    "updatedAt": "2023-12-18T01:29:53.544Z",
     "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c",
     "parentId": null,
     "databaseId": null

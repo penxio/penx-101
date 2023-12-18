@@ -2,8 +2,8 @@
   {
     "id": "cc1f4835-c3f3-4549-bb74-5548be16597e",
     "type": "DAILY_ROOT",
-    "element": "9983b7f1a344b3e8d3422b527d7d0023J4Dur6kseMR9sa4Mh+BMR5iVp8b3tvkBe8A2ZfPqQN5S1xcwwHseJze/63+YxHeBpQbge25IYsJP1ZZLutldZA==",
-    "props": "db7f9aa9633bf13c529acbcdf9f8873bZGF4wtnRmktpyoplEaZ70A==",
+    "element": "0f9f249fee969e616c4fefe185c5e626IsLGQdQLf+3PzaLutjSMpGhUpNvren0H6L8iPv0/3TefT/VDYAKE/Fhx+9n0hKVm8pvTaIT8IjZiATpqmKf5kQ==",
+    "props": "75fe6acffd03239a11cf33e062770b9fVFELgmrVWRohwgA/Bk3ESQ==",
     "collapsed": false,
     "folded": true,
     "children": [
@@ -11,11 +11,13 @@
       "0a53a2d2-dded-46ff-90e2-0326727cc40d",
       "1e6f0074-1ef8-453a-887f-d8c1451e3bce",
       "4736bba3-15f2-41b3-9ea6-6783a9c16dee",
-      "b74dca99-6c90-4da3-a955-3c8b0ab3fbca"
+      "b74dca99-6c90-4da3-a955-3c8b0ab3fbca",
+      "3bc890c3-a15e-48af-8643-428e6528e0b6",
+      "50de827d-db29-45b4-9455-b745c9e19203"
     ],
     "openedAt": "2023-12-08T03:27:32.151Z",
     "createdAt": "2023-12-13T07:47:15.458Z",
-    "updatedAt": "2023-12-15T02:08:11.403Z",
+    "updatedAt": "2023-12-18T01:29:53.544Z",
     "spaceId": "b2c1ca1c-3846-4b44-b994-50be02da086c",
     "parentId": null,
     "databaseId": null
