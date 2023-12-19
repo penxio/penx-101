@@ -8,7 +8,7 @@
   "password": "",
   "color": "emerald500",
   "activeNodeIds": [
-    "acf82d15-c1c0-4fba-aa3e-153c0f886f11"
+    "a66ab13a-c3fa-41fc-a4da-0b98297d4d5e"
   ],
   "nodeSnapshot": {
     "version": 3,
@@ -117,7 +117,7 @@
     }
   },
   "pageSnapshot": {
-    "version": 6,
+    "version": 7,
     "pageMap": {
       "d8d19d74-250d-41da-9a41-dfca20b833c8": "3ebc8799b9c1fe67464e4656d8b8522152e43160e08893c13212b9b6f9d07f69",
       "4da58119-9bc3-4d03-ac0e-88a6b9865214": "ae792860a05c32913dcf28abdb9caaea1e956cb8e94cdde9500e1707075ada02",
@@ -132,9 +132,12 @@
       "d5ac5fd1-8fbf-451b-8638-cd28af1dc993": "a7a4107623e058ae3531e367fe676d61f98181695c7d1cb6faddeac6552b192e",
       "d8dd9366-ca39-4c0e-b3db-7833be206077": "6f59a76f0f9e86e46786874a7744e316b86e3b7cb6bd22bd146aa9cdd7b16536",
       "849d1ddd-e0f4-4e3a-a2a5-9f4bba256fff": "64467907c97355ef32b51543dc49fb371e880f6d1aaf232eb040c0406f4e4da1",
+      "0dc59f9a-7f72-41c5-9764-62c93529a0f2": "c30970eb1f11d540dcac4352ca800f2ebc048bd60859cb9de9c203ac8a4a7da1",
+      "762e426c-4abc-44ab-a9ae-70315f772d1d": "23b532d7c2c680baa556dcc4dcc0e17e5139b461d4f5a4a89ff84ce8f1520baf",
+      "acf82d15-c1c0-4fba-aa3e-153c0f886f11": "91869231a44dca138210866d3872669e40727c33fb23fa83de9cd1f57b00d54c",
       "ROOT": "d840d14ddae7d8e3846ce62c6a30b5a973238ee4d693202737baa038d7261fe9",
       "DATABASE_ROOT": "1bf750a0e49fa4211b0fde6f364ebcf3fd5238fbed5d904a16e6924143761577",
-      "DAILY_ROOT": "5373c3a0dce520fd58f64a6aa7caa4ff4a6337d76cfb64f1e06a45499f715237",
+      "DAILY_ROOT": "831053de3fc55acc3cb14d86fcb3f00bcbb09f9a0a52603a43631ff6512b71ca",
       "FAVORITE": "38b4f6d72cb8d846dfe736eb94866f50f2dedce47b8544c481c10e3a809c0b13",
       "INBOX": "4bfb7965d6e7ac363c04619c94cd00ac47f449171766cf7a32274413b4200193",
       "TRASH": "440f4281fc96f7edaf06b8cb40aa14dd6ab066f5c3fb04fd502eb6f4eebb80ff"
