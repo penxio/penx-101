@@ -1,13 +1,13 @@
 [
   {
-    "id": "2e913758-2a3d-47e0-a0c1-573e816b4439",
-    "type": "TRASH",
+    "id": "d5ac5fd1-8fbf-451b-8638-cd28af1dc993",
+    "type": "DAILY",
     "element": [
       {
         "type": "p",
         "children": [
           {
-            "text": "Trash"
+            "text": "Tuesday, Dec 19th"
           }
         ]
       }
@@ -16,9 +16,9 @@
     "collapsed": false,
     "folded": true,
     "children": [],
-    "openedAt": "2023-12-18T12:45:30.428Z",
-    "createdAt": "2023-12-18T12:45:30.428Z",
-    "updatedAt": "2023-12-18T12:45:30.428Z",
+    "openedAt": "2023-12-19T00:45:15.382Z",
+    "createdAt": "2023-12-19T00:45:15.382Z",
+    "updatedAt": "2023-12-19T00:45:15.382Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   }
 ]

@@ -7,7 +7,7 @@
         "type": "p",
         "children": [
           {
-            "text": ""
+            "text": "Daily Notes"
           }
         ]
       }
@@ -16,11 +16,13 @@
     "collapsed": false,
     "folded": true,
     "children": [
-      "20db2bf7-4e1d-4f80-ba11-7afbecb8b883"
+      "20db2bf7-4e1d-4f80-ba11-7afbecb8b883",
+      "d5ac5fd1-8fbf-451b-8638-cd28af1dc993",
+      "d8dd9366-ca39-4c0e-b3db-7833be206077"
     ],
     "openedAt": "2023-12-18T12:45:30.486Z",
     "createdAt": "2023-12-18T12:45:30.486Z",
-    "updatedAt": "2023-12-18T12:45:30.504Z",
+    "updatedAt": "2023-12-19T00:45:20.205Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   }
 ]
