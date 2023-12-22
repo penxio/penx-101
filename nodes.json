@@ -360,6 +360,28 @@
     "parentId": "20c5d8f8-3345-48d7-9b6d-a4b6ce72b715"
   },
   {
+    "id": "11ea2fe4-9378-4df0-bd06-1e8f8ccc01b7",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:39:15.836Z",
+    "createdAt": "2023-12-22T14:39:15.836Z",
+    "updatedAt": "2023-12-22T14:39:15.836Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
     "id": "190f9ae7-77b1-4d87-ad68-945fbb707ec0",
     "type": "COMMON",
     "element": [
@@ -654,6 +676,28 @@
     "parentId": "bcc763d4-dd38-4b3d-9bb2-504bf01be1f6"
   },
   {
+    "id": "2d7d2782-b09e-45ce-a160-d60aaafe51d7",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:38:48.804Z",
+    "createdAt": "2023-12-22T14:38:48.804Z",
+    "updatedAt": "2023-12-22T14:38:48.804Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
     "id": "2e913758-2a3d-47e0-a0c1-573e816b4439",
     "type": "TRASH",
     "element": [
@@ -673,6 +717,28 @@
     "openedAt": "2023-12-18T12:45:30.428Z",
     "createdAt": "2023-12-18T12:45:30.428Z",
     "updatedAt": "2023-12-18T12:45:30.428Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
+    "id": "2eb4c2b3-6e23-483f-aed7-d9e4ef8bfd8c",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:39:18.460Z",
+    "createdAt": "2023-12-22T14:39:18.460Z",
+    "updatedAt": "2023-12-22T14:39:18.460Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
@@ -843,6 +909,28 @@
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
   {
+    "id": "4040ca55-c3a8-47ca-b931-dbd4ee7fec51",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:39:13.739Z",
+    "createdAt": "2023-12-22T14:39:13.739Z",
+    "updatedAt": "2023-12-22T14:39:13.739Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
     "id": "4257858d-e09e-42a1-a498-fc2b17c04d84",
     "type": "DAILY",
     "element": [
@@ -884,6 +972,28 @@
     "openedAt": "2023-12-19T00:45:16.134Z",
     "createdAt": "2023-12-19T00:45:16.134Z",
     "updatedAt": "2023-12-19T00:45:16.134Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
+    "id": "464da4fc-af34-44c7-8076-8120269fa572",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:38:48.828Z",
+    "createdAt": "2023-12-22T14:38:48.828Z",
+    "updatedAt": "2023-12-22T14:38:48.828Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
@@ -1261,6 +1371,28 @@
     "parentId": "bcc763d4-dd38-4b3d-9bb2-504bf01be1f6"
   },
   {
+    "id": "6df30742-a71b-45d0-b7a3-71958653f5fb",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:38:48.725Z",
+    "createdAt": "2023-12-22T14:38:48.725Z",
+    "updatedAt": "2023-12-22T14:38:48.725Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
     "id": "6e250ad6-4de0-4075-a8cd-266f552fd2f4",
     "type": "DAILY_ROOT",
     "element": [
@@ -1289,11 +1421,20 @@
       "ba670bb4-0d39-4e70-9c39-91ae08f99131",
       "4257858d-e09e-42a1-a498-fc2b17c04d84",
       "c5791766-e25c-43f8-88aa-8b1552388265",
-      "5586c2b5-2f2c-4726-a00a-934842cc1b9d"
+      "5586c2b5-2f2c-4726-a00a-934842cc1b9d",
+      "6df30742-a71b-45d0-b7a3-71958653f5fb",
+      "464da4fc-af34-44c7-8076-8120269fa572",
+      "b1dfeb1d-8684-4fae-b3e5-fd763021e204",
+      "95476e62-323c-405c-86cb-2751bab3d054",
+      "f3412763-7afb-4c93-ac0e-4c6ca7959c49",
+      "4040ca55-c3a8-47ca-b931-dbd4ee7fec51",
+      "11ea2fe4-9378-4df0-bd06-1e8f8ccc01b7",
+      "2eb4c2b3-6e23-483f-aed7-d9e4ef8bfd8c",
+      "b1f00dd1-8ff5-4983-8216-b23e7e03a138"
     ],
     "openedAt": "2023-12-18T12:45:30.486Z",
     "createdAt": "2023-12-18T12:45:30.486Z",
-    "updatedAt": "2023-12-22T09:52:53.120Z",
+    "updatedAt": "2023-12-22T14:39:18.747Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
@@ -1723,6 +1864,28 @@
     "parentId": "f297b7dd-e462-49b2-a299-c7487780b178"
   },
   {
+    "id": "95476e62-323c-405c-86cb-2751bab3d054",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:39:11.892Z",
+    "createdAt": "2023-12-22T14:39:11.892Z",
+    "updatedAt": "2023-12-22T14:39:11.892Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
     "id": "985d5977-dacc-4cab-9778-bb71b7d8819b",
     "type": "COMMON",
     "element": [
@@ -2056,6 +2219,50 @@
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "databaseId": "f97153bf-6106-4800-9a7e-d5acd592159e",
     "parentId": "f97153bf-6106-4800-9a7e-d5acd592159e"
+  },
+  {
+    "id": "b1dfeb1d-8684-4fae-b3e5-fd763021e204",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:38:51.987Z",
+    "createdAt": "2023-12-22T14:38:51.987Z",
+    "updatedAt": "2023-12-22T14:38:51.987Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
+    "id": "b1f00dd1-8ff5-4983-8216-b23e7e03a138",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:39:18.746Z",
+    "createdAt": "2023-12-22T14:39:18.746Z",
+    "updatedAt": "2023-12-22T14:39:18.746Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
     "id": "b5f4cbdc-5583-472d-af05-51d5e597daed",
@@ -3000,6 +3207,28 @@
     "updatedAt": "2023-12-19T15:29:04.667Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b",
     "parentId": "fa1bba6c-55e3-4519-8a43-b624cfbf4340"
+  },
+  {
+    "id": "f3412763-7afb-4c93-ac0e-4c6ca7959c49",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T14:39:13.379Z",
+    "createdAt": "2023-12-22T14:39:13.379Z",
+    "updatedAt": "2023-12-22T14:39:13.379Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
     "id": "f73c06b8-e5e1-4104-b198-307ccb2f1ad4",

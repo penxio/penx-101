@@ -8,7 +8,7 @@
   "password": "",
   "color": "emerald500",
   "activeNodeIds": [
-    "5586c2b5-2f2c-4726-a00a-934842cc1b9d"
+    "b1f00dd1-8ff5-4983-8216-b23e7e03a138"
   ],
   "nodeSnapshot": {
     "version": 4,
@@ -124,7 +124,7 @@
     }
   },
   "pageSnapshot": {
-    "version": 13,
+    "version": 14,
     "pageMap": {
       "d8d19d74-250d-41da-9a41-dfca20b833c8": "3ebc8799b9c1fe67464e4656d8b8522152e43160e08893c13212b9b6f9d07f69",
       "4da58119-9bc3-4d03-ac0e-88a6b9865214": "ae792860a05c32913dcf28abdb9caaea1e956cb8e94cdde9500e1707075ada02",
@@ -146,9 +146,10 @@
       "ba670bb4-0d39-4e70-9c39-91ae08f99131": "6f1d95a23047d52d0ce7330cb19b368e5e004edaba94b7a93927556bfee13562",
       "4257858d-e09e-42a1-a498-fc2b17c04d84": "c93f80c49d26dcadf3a1d165c432048d99f523061702a9e9e39b8b6895e528c7",
       "c5791766-e25c-43f8-88aa-8b1552388265": "efe67b7d68c85ea0f6dc14e9694b80c768820665b7f5c1db1fd6901f7b17101d",
+      "5586c2b5-2f2c-4726-a00a-934842cc1b9d": "1f0dccb5c970815f2939ef17107c2be3e723a398b7fa5a3a2b7fc9cbe9fa86ca",
       "ROOT": "124e9a2d9ac177271c12a7cec1bdd463322cf2e6cb88aefb7bcfc1f4b3f17a4f",
       "DATABASE_ROOT": "1bf750a0e49fa4211b0fde6f364ebcf3fd5238fbed5d904a16e6924143761577",
-      "DAILY_ROOT": "f41be3a2ec7a2a9a853e472f524ae9a42fdfd457def83a1e963662d405a669f8",
+      "DAILY_ROOT": "e574dad743a5c10383d013ea70c09f70d8096cbbfc2334f388fbba3688215aaa",
       "FAVORITE": "38b4f6d72cb8d846dfe736eb94866f50f2dedce47b8544c481c10e3a809c0b13",
       "INBOX": "4bfb7965d6e7ac363c04619c94cd00ac47f449171766cf7a32274413b4200193",
       "TRASH": "440f4281fc96f7edaf06b8cb40aa14dd6ab066f5c3fb04fd502eb6f4eebb80ff"
