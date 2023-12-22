@@ -961,6 +961,28 @@
     "parentId": "bcc763d4-dd38-4b3d-9bb2-504bf01be1f6"
   },
   {
+    "id": "5586c2b5-2f2c-4726-a00a-934842cc1b9d",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Friday, Dec 22nd"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-22T09:52:53.120Z",
+    "createdAt": "2023-12-22T09:52:53.120Z",
+    "updatedAt": "2023-12-22T09:52:53.120Z",
+    "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
+  },
+  {
     "id": "59066e15-8bc6-4868-a358-40873cc6fe46",
     "type": "CELL",
     "element": [
@@ -1266,11 +1288,12 @@
       "ca4e3a05-6c99-4817-a74c-272b4b55c326",
       "ba670bb4-0d39-4e70-9c39-91ae08f99131",
       "4257858d-e09e-42a1-a498-fc2b17c04d84",
-      "c5791766-e25c-43f8-88aa-8b1552388265"
+      "c5791766-e25c-43f8-88aa-8b1552388265",
+      "5586c2b5-2f2c-4726-a00a-934842cc1b9d"
     ],
     "openedAt": "2023-12-18T12:45:30.486Z",
     "createdAt": "2023-12-18T12:45:30.486Z",
-    "updatedAt": "2023-12-19T23:52:21.756Z",
+    "updatedAt": "2023-12-22T09:52:53.120Z",
     "spaceId": "815c0b25-2f5e-4f6c-8ec7-83b3034f777b"
   },
   {
