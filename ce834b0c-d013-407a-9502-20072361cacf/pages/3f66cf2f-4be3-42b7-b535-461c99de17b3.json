@@ -1,0 +1,53 @@
+[
+  {
+    "id": "3f66cf2f-4be3-42b7-b535-461c99de17b3",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Tuesday, Dec 12th"
+          }
+        ]
+      }
+    ],
+    "props": {
+      "date": "2023-12-12"
+    },
+    "collapsed": true,
+    "folded": true,
+    "children": [
+      "c6dfbef2-84c6-4c50-89a5-49e6e7904024"
+    ],
+    "openedAt": "2024-01-21T02:44:16.272Z",
+    "createdAt": "2024-01-21T02:44:16.272Z",
+    "updatedAt": "2024-01-21T02:44:22.724Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "6380985d-ab03-47e1-b6ba-8daad95fd70b"
+  },
+  {
+    "id": "c6dfbef2-84c6-4c50-89a5-49e6e7904024",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Name hello"
+          }
+        ],
+        "id": "c6dfbef2-84c6-4c50-89a5-49e6e7904024"
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-21T02:44:16.271Z",
+    "createdAt": "2024-01-21T02:44:16.271Z",
+    "updatedAt": "2024-01-21T02:44:22.734Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "3f66cf2f-4be3-42b7-b535-461c99de17b3"
+  }
+]

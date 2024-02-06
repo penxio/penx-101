@@ -1,0 +1,24 @@
+{
+  "id": "ce834b0c-d013-407a-9502-20072361cacf",
+  "name": "My Space",
+  "sort": 1,
+  "isActive": true,
+  "isCloud": false,
+  "encrypted": false,
+  "password": "",
+  "color": "orange500",
+  "activeNodeIds": [
+    "b21cc94c-cd8d-4c96-b790-312f4983f507"
+  ],
+  "nodeSnapshot": {
+    "version": 0,
+    "nodeMap": {}
+  },
+  "pageSnapshot": {
+    "version": 0,
+    "pageMap": {}
+  },
+  "createdAt": "2023-12-18T12:37:25.294Z",
+  "updatedAt": "2023-12-18T12:37:25.294Z",
+  "nodesLastUpdatedAt": "2024-01-21T02:44:27.616Z"
+}

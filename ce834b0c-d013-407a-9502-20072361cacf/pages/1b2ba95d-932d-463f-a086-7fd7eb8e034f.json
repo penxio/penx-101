@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1b2ba95d-932d-463f-a086-7fd7eb8e034f",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Sunday, Jan 21st"
+          }
+        ]
+      }
+    ],
+    "props": {
+      "date": "2024-01-21"
+    },
+    "collapsed": true,
+    "folded": true,
+    "children": [
+      "bba34592-0914-4a97-b4f1-89514e2d4282",
+      "6e4be40b-f9b5-47bc-b0dd-2332bb9b596f",
+      "5778bdbe-bdbd-46ed-a602-e9215559443d"
+    ],
+    "openedAt": "2024-01-21T02:44:24.625Z",
+    "createdAt": "2024-01-21T02:44:24.625Z",
+    "updatedAt": "2024-01-21T02:44:54.113Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "6380985d-ab03-47e1-b6ba-8daad95fd70b"
+  },
+  {
+    "id": "5778bdbe-bdbd-46ed-a602-e9215559443d",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "name"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-21T02:44:54.092Z",
+    "createdAt": "2024-01-21T02:44:54.092Z",
+    "updatedAt": "2024-01-21T02:44:54.092Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "1b2ba95d-932d-463f-a086-7fd7eb8e034f"
+  },
+  {
+    "id": "6e4be40b-f9b5-47bc-b0dd-2332bb9b596f",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Hello"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-21T02:44:49.782Z",
+    "createdAt": "2024-01-21T02:44:49.782Z",
+    "updatedAt": "2024-01-21T02:44:49.782Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "1b2ba95d-932d-463f-a086-7fd7eb8e034f"
+  },
+  {
+    "id": "bba34592-0914-4a97-b4f1-89514e2d4282",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "item 1"
+          }
+        ],
+        "id": "bba34592-0914-4a97-b4f1-89514e2d4282"
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-21T02:44:24.625Z",
+    "createdAt": "2024-01-21T02:44:24.625Z",
+    "updatedAt": "2024-01-21T02:44:29.623Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "1b2ba95d-932d-463f-a086-7fd7eb8e034f"
+  }
+]

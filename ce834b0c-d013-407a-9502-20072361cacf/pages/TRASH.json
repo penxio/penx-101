@@ -1,0 +1,24 @@
+[
+  {
+    "id": "3da531cc-39bc-44e5-8f71-01c0ab8e3080",
+    "type": "TRASH",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:37:25.319Z",
+    "createdAt": "2023-12-18T12:37:25.319Z",
+    "updatedAt": "2023-12-18T12:37:25.319Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf"
+  }
+]

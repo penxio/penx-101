@@ -1,0 +1,52 @@
+[
+  {
+    "id": "4215e4b6-3efa-41d2-a181-f5ca9ece2ab3",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {
+      "date": "2023-12-13"
+    },
+    "collapsed": true,
+    "folded": true,
+    "children": [
+      "f225a3fa-f631-4662-8bf7-8009d5d9012a"
+    ],
+    "openedAt": "2024-01-21T02:44:13.772Z",
+    "createdAt": "2024-01-21T02:44:13.772Z",
+    "updatedAt": "2024-01-21T02:44:13.772Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "6380985d-ab03-47e1-b6ba-8daad95fd70b"
+  },
+  {
+    "id": "f225a3fa-f631-4662-8bf7-8009d5d9012a",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-21T02:44:13.771Z",
+    "createdAt": "2024-01-21T02:44:13.771Z",
+    "updatedAt": "2024-01-21T02:44:13.779Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf",
+    "parentId": "4215e4b6-3efa-41d2-a181-f5ca9ece2ab3"
+  }
+]

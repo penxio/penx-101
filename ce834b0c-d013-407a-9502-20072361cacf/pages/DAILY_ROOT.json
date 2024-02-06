@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6380985d-ab03-47e1-b6ba-8daad95fd70b",
+    "type": "DAILY_ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "9975af64-94c2-4b15-9f6f-5f192bf5cdb2",
+      "7dc26271-3631-42b0-8722-0a95b9e7cfdf",
+      "ffb963d5-05dd-416c-840a-d81e95088cd1",
+      "a03b32aa-117e-4163-9fcc-5ee304dece80",
+      "d735fb13-2cf8-46c1-ae37-7fed1cf78077",
+      "4215e4b6-3efa-41d2-a181-f5ca9ece2ab3",
+      "3f66cf2f-4be3-42b7-b535-461c99de17b3",
+      "1b2ba95d-932d-463f-a086-7fd7eb8e034f",
+      "c96b47ff-f50f-49df-84eb-8c5e249902e2",
+      "d101ec19-e3c5-4269-b011-fa54cec5fa19",
+      "ca7a8e21-5fd6-4b55-9d69-5219010fe507",
+      "b21cc94c-cd8d-4c96-b790-312f4983f507"
+    ],
+    "openedAt": "2023-12-18T12:37:25.333Z",
+    "createdAt": "2023-12-18T12:37:25.333Z",
+    "updatedAt": "2024-02-06T07:23:10.441Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf"
+  }
+]

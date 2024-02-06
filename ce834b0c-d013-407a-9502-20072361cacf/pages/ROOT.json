@@ -1,0 +1,24 @@
+[
+  {
+    "id": "a645cadf-e142-48ca-9395-a5d3267cd72f",
+    "type": "ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "My Space"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2023-12-18T12:37:25.306Z",
+    "createdAt": "2023-12-18T12:37:25.306Z",
+    "updatedAt": "2023-12-18T12:37:25.306Z",
+    "spaceId": "ce834b0c-d013-407a-9502-20072361cacf"
+  }
+]
